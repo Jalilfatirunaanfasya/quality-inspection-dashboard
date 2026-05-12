@@ -1,0 +1,983 @@
+﻿Date;Month;Year;Material Supplier;Product Code;Machine;Inspection Type;Defect Type;Defect Mode ;Cause;Type of Cause;Number of Repairs;Inspector;Shift
+24/10/2024;Oct;2024;Supplier_1;Product_23;Machine_C;In-process;Visual;SR;Material;Material Failures;1;Inspector_5;Morning_Shift
+24/10/2024;Oct;2024;Supplier_1;Product_23;Machine_C;In-process;Visual;DT;Material;Material Failures;1;Inspector_5;Morning_Shift
+24/10/2024;Oct;2024;Supplier_2;Product_6;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+24/10/2024;Oct;2024;Supplier_2;Product_6;Machine_D;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+24/10/2024;Oct;2024;Supplier_1;Product_23;Machine_C;In-process;Visual;DM;Machine;Setup and Adjustment Machine;6;Inspector_3;Afternoon_Shift
+24/10/2024;Oct;2024;Supplier_1;Product_23;Machine_C;In-process;Dimension;JOS;Machine;Setup and Adjustment Machine;6;Inspector_10;Morning_Shift
+25/10/2024;Oct;2024;Supplier_1;Product_23;Machine_C;In-process;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+25/10/2024;Oct;2024;Supplier_2;Product_6;Machine_D;In-process;Visual;PU;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+25/10/2024;Oct;2024;Supplier_1;Product_9;Machine_C;First ;Visual;DM;Machine;Setup and Adjustment Machine;4;Inspector_10;Morning_Shift
+25/10/2024;Oct;2024;Supplier_1;Product_9;Machine_C;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_4;Afternoon_Shift
+25/10/2024;Oct;2024;Supplier_1;Product_9;Machine_C;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+25/10/2024;Oct;2024;Supplier_1;Product_9;Machine_C;First ;Visual;DT;Mold;Dirty Mold;7;Inspector_4;Afternoon_Shift
+28/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;First ;Dimension;IOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+28/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;First ;Visual;CP;Mold;Mold Failures;1;Inspector_1;Afternoon_Shift
+28/10/2024;Oct;2024;Supplier_2;Product_2;Machine_A;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+28/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;First ;Dimension;IOS;Machine;Setup and Adjustment Machine;2;Inspector_4;Midnight_Shift
+28/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;First ;Dimension;COS;Mold;Mold Failures;2;Inspector_4;Midnight_Shift
+28/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;First ;Visual;PU;Machine;Setup and Adjustment Machine;3;Inspector_3;Midnight_Shift
+29/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+29/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;First ;Visual;MR;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+29/10/2024;Oct;2024;Supplier_1;Product_10;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+29/10/2024;Oct;2024;Supplier_1;Product_10;Machine_E;First ;Visual;DT;Mold;Dirty Mold;4;Inspector_10;Morning_Shift
+29/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+29/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+29/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+29/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;3;Inspector_4;Midnight_Shift
+29/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Midnight_Shift
+30/10/2024;Oct;2024;Supplier_2;Product_6;Machine_D;Outgoing;Visual;EPH;Human Error;Lain-Lain;1;Inspector_5;Morning_Shift
+30/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_4;Midnight_Shift
+31/10/2024;Oct;2024;Supplier_2;Product_2;Machine_A;In-process;Visual;DT;Mold;Dirty Mold;5;Inspector_10;Morning_Shift
+31/10/2024;Oct;2024;Supplier_1;Product_9;Machine_C;First ;Visual;DM;Machine;Setup and Adjustment Machine;6;Inspector_10;Morning_Shift
+31/10/2024;Oct;2024;Supplier_1;Product_9;Machine_C;First ;Visual;JOS;Machine;Setup and Adjustment Machine;6;Inspector_10;Morning_Shift
+31/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;2;Inspector_10;Morning_Shift
+31/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DM;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+31/10/2024;Oct;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+31/10/2024;Oct;2024;Supplier_2;Product_8;Machine_A;First ;Visual;BR;Mold;Mold Failures;1;Inspector_1;Afternoon_Shift
+31/10/2024;Oct;2024;Supplier_2;Product_8;Machine_A;First ;Dimension;IOS;Machine;Setup and Adjustment Machine;8;Inspector_4;Midnight_Shift
+31/10/2024;Oct;2024;Supplier_2;Product_8;Machine_A;First ;Visual;PU;Machine;Setup and Adjustment Machine;8;Inspector_4;Midnight_Shift
+01/11/2024;Nov;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+01/11/2024;Nov;2024;Supplier_2;Product_8;Machine_A;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_5;Morning_Shift
+01/11/2024;Nov;2024;Supplier_2;Product_8;Machine_A;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_5;Morning_Shift
+01/11/2024;Nov;2024;Supplier_2;Product_8;Machine_A;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+04/11/2024;Nov;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+04/11/2024;Nov;2024;Supplier_2;Product_8;Machine_A;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+04/11/2024;Nov;2024;Supplier_2;Product_7;Machine_E;First ;Visual;DT;Mold;Dirty Mold;8;Inspector_4;Afternoon_Shift
+04/11/2024;Nov;2024;Supplier_2;Product_2;Machine_D;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_10;Midnight_Shift
+04/11/2024;Nov;2024;Supplier_1;Product_23;Machine_C;First ;Dimension;COS;Machine;Setup and Adjustment Machine;4;Inspector_1;Midnight_Shift
+04/11/2024;Nov;2024;Supplier_1;Product_23;Machine_C;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_1;Midnight_Shift
+04/11/2024;Nov;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_10;Midnight_Shift
+04/11/2024;Nov;2024;Supplier_1;Product_23;Machine_C;First ;Visual;DM;Mold;Dirty Mold;4;Inspector_1;Midnight_Shift
+04/11/2024;Nov;2024;Supplier_2;Product_7;Machine_E;First ;Dimension;FOS;Machine;Setup and Adjustment Machine;5;Inspector_3;Afternoon_Shift
+05/11/2024;Nov;2024;Supplier_1;Product_23;Machine_C;First ;Visual;DT;Mold;Dirty Mold;5;Inspector_5;Morning_Shift
+05/11/2024;Nov;2024;Supplier_1;Product_23;Machine_C;First ;Visual;SR;Machine;Lain-Lain;2;Inspector_5;Morning_Shift
+05/11/2024;Nov;2024;Supplier_1;Product_23;Machine_C;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;6;Inspector_5;Morning_Shift
+05/11/2024;Nov;2024;Supplier_1;Product_23;Machine_C;First ;Dimension;FOS;Machine;Setup and Adjustment Machine;4;Inspector_5;Morning_Shift
+05/11/2024;Nov;2024;Supplier_1;Product_23;Machine_C;First ;Visual;PU;Machine;Setup and Adjustment Machine;5;Inspector_5;Morning_Shift
+05/11/2024;Nov;2024;Supplier_2;Product_17;Machine_C;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+05/11/2024;Nov;2024;Supplier_2;Product_17;Machine_C;First ;Visual;SR;Machine;Dirty Mold;1;Inspector_7;Morning_Shift
+05/11/2024;Nov;2024;Supplier_2;Product_15;Machine_E;First ;Dimension;FOS;Machine;Setup and Adjustment Machine;3;Inspector_4;Afternoon_Shift
+05/11/2024;Nov;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;SR;Machine;Setup and Adjustment Machine;1;Inspector_4;Afternoon_Shift
+05/11/2024;Nov;2024;Supplier_2;Product_17;Machine_C;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+05/11/2024;Nov;2024;Supplier_2;Product_17;Machine_C;In-process;Visual;DM;Mold;Dirty Mold;2;Inspector_10;Midnight_Shift
+05/11/2024;Nov;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DM;Mold;Dirty Mold;4;Inspector_10;Midnight_Shift
+06/11/2024;Nov;2024;Supplier_2;Product_15;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+06/11/2024;Nov;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+06/11/2024;Nov;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+06/11/2024;Nov;2024;Supplier_2;Product_17;Machine_C;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+06/11/2024;Nov;2024;Supplier_2;Product_8;Machine_A;In-process;Visual;PU;Machine;Setup and Adjustment Machine;1;Inspector_7;Morning_Shift
+06/11/2024;Nov;2024;Supplier_1;Product_9;Machine_D;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+06/11/2024;Nov;2024;Supplier_1;Product_9;Machine_D;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+06/11/2024;Nov;2024;Supplier_1;Product_9;Machine_D;First ;Visual;DM;Mold;Dirty Mold;4;Inspector_5;Morning_Shift
+06/11/2024;Nov;2024;Supplier_2;Product_17;Machine_C;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+06/11/2024;Nov;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_10;Midnight_Shift
+07/11/2024;Nov;2024;Supplier_1;Product_3;Machine_C;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+07/11/2024;Nov;2024;Supplier_1;Product_3;Machine_C;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+07/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+07/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Visual;WV;Machine;Setup and Adjustment Machine;10;Inspector_4;Afternoon_Shift
+07/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;4;Inspector_4;Afternoon_Shift
+07/11/2024;Nov;2024;Supplier_1;Product_3;Machine_C;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_3;Afternoon_Shift
+07/11/2024;Nov;2024;Supplier_2;Product_20;Machine_E;First ;Dimension;FOS;Machine;Setup and Adjustment Machine;3;Inspector_4;Afternoon_Shift
+07/11/2024;Nov;2024;Supplier_2;Product_12;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;2;Inspector_10;Midnight_Shift
+08/11/2024;Nov;2024;Supplier_1;Product_23;Machine_B;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;3;Inspector_4;Afternoon_Shift
+08/11/2024;Nov;2024;Supplier_1;Product_23;Machine_B;First ;Visual;DM;Machine;Setup and Adjustment Machine;2;Inspector_4;Afternoon_Shift
+08/11/2024;Nov;2024;Supplier_1;Product_23;Machine_B;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;2;Inspector_4;Afternoon_Shift
+08/11/2024;Nov;2024;Supplier_1;Product_23;Machine_B;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_4;Afternoon_Shift
+08/11/2024;Nov;2024;Supplier_1;Product_23;Machine_B;First ;Visual;SR;Machine;Setup and Adjustment Machine;17;Inspector_4;Afternoon_Shift
+08/11/2024;Nov;2024;Supplier_1;Product_23;Machine_B;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+11/11/2024;Nov;2024;Supplier_2;Product_18;Machine_E;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;2;Inspector_3;Morning_Shift
+11/11/2024;Nov;2024;Supplier_2;Product_18;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_5;Morning_Shift
+11/11/2024;Nov;2024;Supplier_1;Product_23;Machine_B;In-process;Visual;DM;Machine;Setup and Adjustment Machine;20;Inspector_5;Morning_Shift
+11/11/2024;Nov;2024;Supplier_2;Product_18;Machine_E;First ;Visual;SR;Mold;Dirty Mold;15;Inspector_3;Morning_Shift
+11/11/2024;Nov;2024;Supplier_2;Product_6;Machine_B;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_4;Midnight_Shift
+11/11/2024;Nov;2024;Supplier_2;Product_18;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_4;Midnight_Shift
+12/11/2024;Nov;2024;Supplier_2;Product_18;Machine_E;In-process;Visual;DT;Machine;Lain-Lain;4;Inspector_3;Morning_Shift
+12/11/2024;Nov;2024;Supplier_2;Product_1;Machine_E;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+12/11/2024;Nov;2024;Supplier_2;Product_5;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Morning_Shift
+12/11/2024;Nov;2024;Supplier_2;Product_1;Machine_E;In-process;Visual;DM;Machine;Machine Failures;4;Inspector_4;Midnight_Shift
+12/11/2024;Nov;2024;Supplier_2;Product_18;Machine_E;In-process;Dimension;DT;Mold;Dirty Mold;6;Inspector_3;Morning_Shift
+12/11/2024;Nov;2024;Supplier_2;Product_18;Machine_E;First ;Dimension;MOS;Machine;Machine Failures;4;Inspector_3;Morning_Shift
+13/11/2024;Nov;2024;Supplier_2;Product_5;Machine_D;In-process;Visual;DT;Mold;Dirty Mold;6;Inspector_3;Morning_Shift
+13/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;First ;Visual;BR;Mold;Mold Failures;1;Inspector_3;Morning_Shift
+13/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;8;Inspector_1;Afternoon_Shift
+13/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;First ;Visual;DM;Mold;Dirty Mold;6;Inspector_1;Afternoon_Shift
+14/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;12;Inspector_1;Afternoon_Shift
+14/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;9;Inspector_4;Midnight_Shift
+14/11/2024;Nov;2024;Supplier_2;Product_16;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_4;Midnight_Shift
+15/11/2024;Nov;2024;Supplier_2;Product_18;Machine_C;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+15/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;6;Inspector_1;Afternoon_Shift
+16/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;11;Inspector_3;Morning_Shift
+16/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;In-process;Visual;SR;Machine;Setup and Adjustment Machine;1;Inspector_4;Afternoon_Shift
+16/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Visual;DM;Machine;Setup and Adjustment Machine;11;Inspector_3;Morning_Shift
+16/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Visual;MR;Machine;Setup and Adjustment Machine;3;Inspector_3;Morning_Shift
+18/11/2024;Nov;2024;Supplier_2;Product_2;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_5;Morning_Shift
+18/11/2024;Nov;2024;Supplier_2;Product_2;Machine_E;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_5;Morning_Shift
+18/11/2024;Nov;2024;Supplier_2;Product_2;Machine_E;First ;Visual;MR;Machine;Setup and Adjustment Machine;5;Inspector_5;Morning_Shift
+18/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;1;Inspector_4;Afternoon_Shift
+18/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_4;Afternoon_Shift
+18/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Visual;DM;Mold;Dirty Mold;14;Inspector_4;Afternoon_Shift
+18/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;15;Inspector_4;Afternoon_Shift
+18/11/2024;Nov;2024;Supplier_3;Product_3;Machine_C;In-process;Visual;CP;Mold;Mold Failures;1;Inspector_4;Afternoon_Shift
+18/11/2024;Nov;2024;Supplier_3;Product_3;Machine_C;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+18/11/2024;Nov;2024;Supplier_3;Product_3;Machine_C;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+18/11/2024;Nov;2024;Supplier_3;Product_3;Machine_C;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;2;Inspector_1;Midnight_Shift
+19/11/2024;Nov;2024;Supplier_2;Product_5;Machine_B;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+19/11/2024;Nov;2024;Supplier_3;Product_3;Machine_C;In-process;Visual;DT;Mold;Dirty Mold;4;Inspector_5;Morning_Shift
+19/11/2024;Nov;2024;Supplier_2;Product_12;Machine_A;First ;Visual;PU;Machine;Setup and Adjustment Machine;4;Inspector_5;Morning_Shift
+19/11/2024;Nov;2024;Supplier_2;Product_5;Machine_B;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+19/11/2024;Nov;2024;Supplier_2;Product_7;Machine_A;First ;Visual;DM;Mold;Dirty Mold;5;Inspector_4;Afternoon_Shift
+19/11/2024;Nov;2024;Supplier_2;Product_7;Machine_A;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+20/11/2024;Nov;2024;Supplier_2;Product_5;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+20/11/2024;Nov;2024;Supplier_2;Product_5;Machine_B;In-process;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+20/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;In-process;Visual;DT;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+20/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;4;Inspector_10;Morning_Shift
+20/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+20/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;In-process;Dimension;GOS;Machine;Machine Failures;13;Inspector_4;Afternoon_Shift
+20/11/2024;Nov;2024;Supplier_1;Product_23;Machine_D;In-process;Visual;DM;Machine;Machine Failures;13;Inspector_4;Afternoon_Shift
+20/11/2024;Nov;2024;Supplier_2;Product_6;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+21/11/2024;Nov;2024;Supplier_2;Product_6;Machine_D;In-process;Visual;BR;Mold;Dirty Mold;5;Inspector_5;Morning_Shift
+21/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;First ;Visual;DM;Machine;Setup and Adjustment Machine;7;Inspector_10;Morning_Shift
+21/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;11;Inspector_10;Morning_Shift
+21/11/2024;Nov;2024;Supplier_2;Product_1;Machine_A;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+21/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Dimension;GOS;Machine;Machine Failures;4;Inspector_1;Midnight_Shift
+21/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Dimension;COS;Machine;Machine Failures;10;Inspector_1;Midnight_Shift
+21/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Dimension;JOS;Machine;Machine Failures;5;Inspector_1;Midnight_Shift
+22/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;4;Inspector_4;Afternoon_Shift
+22/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Dimension;COS;Machine;Setup and Adjustment Machine;7;Inspector_4;Afternoon_Shift
+22/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;2;Inspector_1;Midnight_Shift
+22/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;1;Inspector_1;Midnight_Shift
+22/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+22/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+23/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;In-process;Visual;DT;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+23/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;In-process;Visual;SR;Machine;Machine_Dirty;3;Inspector_5;Morning_Shift
+23/11/2024;Nov;2024;Supplier_1;Product_23;Machine_E;In-process;Visual;DT;Machine;Machine_Dirty;3;Inspector_5;Morning_Shift
+23/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_4;Afternoon_Shift
+23/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;2;Inspector_1;Midnight_Shift
+25/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;In-process;Visual;DM;Machine;Setup and Adjustment Machine;3;Inspector_10;Morning_Shift
+25/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;In-process;Visual;JOS;Machine;Setup and Adjustment Machine;2;Inspector_10;Morning_Shift
+25/11/2024;Nov;2024;Supplier_2;Product_6;Machine_D;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+25/11/2024;Nov;2024;Supplier_2;Product_12;Machine_C;First ;Visual;PU;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+25/11/2024;Nov;2024;Supplier_2;Product_7;Machine_C;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+25/11/2024;Nov;2024;Supplier_1;Product_3;Machine_C;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+25/11/2024;Nov;2024;Supplier_1;Product_9;Machine_B;In-process;Dimension;JOS;Machine;Setup and Adjustment Machine;2;Inspector_3;Afternoon_Shift
+25/11/2024;Nov;2024;Supplier_2;Product_6;Machine_D;In-process;Visual;PU;Machine;Setup and Adjustment Machine;3;Inspector_4;Midnight_Shift
+25/11/2024;Nov;2024;Supplier_1;Product_3;Machine_C;In-process;Visual;DM;Machine;Setup and Adjustment Machine;2;Inspector_4;Midnight_Shift
+26/11/2024;Nov;2024;Supplier_2;Product_7;Machine_D;First ;Visual;PU;Machine;Setup and Adjustment Machine;1;Inspector_10;Morning_Shift
+26/11/2024;Nov;2024;Supplier_2;Product_12;Machine_A;First ;Visual;PU;Mold;Setup and Adjustment Machine;25;Inspector_10;Morning_Shift
+26/11/2024;Nov;2024;Supplier_1;Product_10;Machine_B;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_3;Afternoon_Shift
+26/11/2024;Nov;2024;Supplier_2;Product_5;Machine_A;First ;Visual;PU;Mold;Mold Failures;3;Inspector_5;Morning_Shift
+26/11/2024;Nov;2024;Supplier_2;Product_5;Machine_A;First ;Visual;DT;Mold;Mold Failures;3;Inspector_5;Morning_Shift
+26/11/2024;Nov;2024;Supplier_2;Product_12;Machine_A;First ;Visual;PU;Machine;Setup and Adjustment Machine;2;Inspector_1;Afternoon_Shift
+26/11/2024;Nov;2024;Supplier_2;Product_12;Machine_A;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+28/11/2024;Nov;2024;Supplier_1;Product_9;Machine_D;First ;Visual;DM;Machine;Setup and Adjustment Machine;4;Inspector_3;Morning_Shift
+28/11/2024;Nov;2024;Supplier_2;Product_12;Machine_A;In-process;Visual;PU;Machine;Setup and Adjustment Machine;5;Inspector_10;Morning_Shift
+29/11/2024;Nov;2024;Supplier_2;Product_15;Machine_C;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+29/11/2024;Nov;2024;Supplier_2;Product_5;Machine_E;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+29/11/2024;Nov;2024;Supplier_2;Product_5;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+29/11/2024;Nov;2024;Supplier_2;Product_5;Machine_E;In-process;Visual;PU;Machine;Setup and Adjustment Machine;6;Inspector_4;Afternoon_Shift
+30/11/2024;Nov;2024;Supplier_1;Product_9;Machine_D;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+30/11/2024;Nov;2024;Supplier_1;Product_9;Machine_D;First ;Visual;DT;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+30/11/2024;Nov;2024;Supplier_1;Product_9;Machine_D;First ;Visual;DM;Machine;Setup and Adjustment Machine;5;Inspector_10;Morning_Shift
+30/11/2024;Nov;2024;Supplier_1;Product_9;Machine_D;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;2;Inspector_10;Morning_Shift
+02/12/2024;Dec;2024;Supplier_3;Product_3;Machine_E;First ;Visual;DM;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+02/12/2024;Dec;2024;Supplier_3;Product_3;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_5;Morning_Shift
+02/12/2024;Dec;2024;Supplier_3;Product_3;Machine_E;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;2;Inspector_5;Morning_Shift
+02/12/2024;Dec;2024;Supplier_2;Product_12;Machine_A;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_5;Morning_Shift
+02/12/2024;Dec;2024;Supplier_2;Product_12;Machine_A;In-process;Visual;CP;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+02/12/2024;Dec;2024;Supplier_2;Product_5;Machine_A;In-process;Visual;PU;Machine;Setup and Adjustment Machine;8;Inspector_3;Afternoon_Shift
+02/12/2024;Dec;2024;Supplier_2;Product_7;Machine_A;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+02/12/2024;Dec;2024;Supplier_1;Product_3;Machine_E;First ;Visual;JOS;Machine;Setup and Adjustment Machine;8;Inspector_1;Midnight_Shift
+03/12/2024;Dec;2024;Supplier_2;Product_7;Machine_A;In-process;Visual;PU;Machine;Setup and Adjustment Machine;1;Inspector_3;Morning_Shift
+03/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;First ;Visual;CP;Mold;Mold Failures;1;Inspector_3;Morning_Shift
+03/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;3;Inspector_3;Morning_Shift
+03/12/2024;Dec;2024;Supplier_1;Product_9;Machine_D;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;3;Inspector_7;Afternoon_Shift
+03/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_4;Afternoon_Shift
+03/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_4;Afternoon_Shift
+03/12/2024;Dec;2024;Supplier_2;Product_6;Machine_D;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+04/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Visual;DT;Mold;Dirty Mold;4;Inspector_4;Afternoon_Shift
+04/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Visual;WV;Mold;Setup and Adjustment Machine;9;Inspector_4;Afternoon_Shift
+04/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;1;Inspector_1;Midnight_Shift
+04/12/2024;Dec;2024;Supplier_2;Product_7;Machine_A;In-process;Visual;PU;Machine;Setup and Adjustment Machine;2;Inspector_3;Morning_Shift
+04/12/2024;Dec;2024;Supplier_2;Product_6;Machine_D;In-process;Visual;PU;Machine;Setup and Adjustment Machine;3;Inspector_3;Morning_Shift
+04/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Visual;DT;Mold;Dirty Mold;5;Inspector_3;Morning_Shift
+05/12/2025;Dec;2024;Supplier_1;Product_9;Machine_D;First ;Visual;WV;Machine;Setup and Adjustment Machine;3;Inspector_4;Afternoon_Shift
+05/12/2026;Dec;2024;Supplier_1;Product_9;Machine_D;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_4;Afternoon_Shift
+05/12/2027;Dec;2024;Supplier_2;Product_22;Machine_B;First ;Visual;WV;Machine;Setup and Adjustment Machine;3;Inspector_4;Afternoon_Shift
+06/12/2024;Dec;2024;Supplier_1;Product_10;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_5;Morning_Shift
+06/12/2024;Dec;2024;Supplier_1;Product_10;Machine_E;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+06/12/2024;Dec;2024;Supplier_2;Product_5;Machine_E;First ;Visual;DF;Mold;Mold Failures;1;Inspector_3;Morning_Shift
+09/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Visual;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+09/12/2024;Dec;2024;Supplier_2;Product_5;Machine_C;First ;Visual;DF;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+09/12/2024;Dec;2024;Supplier_2;Product_8;Machine_C;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_7;Morning_Shift
+06/12/2024;Dec;2024;Supplier_1;Product_10;Machine_E;In-process;Dimension;JOS;Machine;Setup and Adjustment Machine;1;Inspector_1;Midnight_Shift
+09/12/2024;Dec;2024;Supplier_2;Product_8;Machine_C;First ;Visual;DM;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+09/12/2024;Dec;2024;Supplier_2;Product_8;Machine_C;First ;Visual;PU;Machine;Setup and Adjustment Machine;2;Inspector_7;Morning_Shift
+09/12/2024;Dec;2024;Supplier_2;Product_12;Machine_E;First ;Visual;BR;Mold;Mold Failures;1;Inspector_1;Afternoon_Shift
+09/12/2024;Dec;2024;Supplier_2;Product_15;Machine_C;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_3;Afternoon_Shift
+09/12/2024;Dec;2024;Supplier_2;Product_5;Machine_E;First ;Visual;DF;Mold;Mold Failures;1;Inspector_3;Afternoon_Shift
+10/12/2024;Dec;2024;Supplier_2;Product_15;Machine_C;In-process;Visual;DT;Mold;Dirty Mold;5;Inspector_7;Morning_Shift
+10/12/2024;Dec;2024;Supplier_2;Product_12;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+10/12/2024;Dec;2024;Supplier_2;Product_18;Machine_A;First ;Visual;PU;Mold;Mold Failures;1;Inspector_1;Afternoon_Shift
+10/12/2024;Dec;2024;Supplier_2;Product_5;Machine_A;First ;Visual;DT;Mold;Dirty Mold;4;Inspector_4;Midnight_Shift
+10/12/2024;Dec;2024;Supplier_2;Product_5;Machine_A;First ;Visual;PU;Machine;Setup and Adjustment Machine;8;Inspector_4;Midnight_Shift
+11/12/2024;Dec;2024;Supplier_2;Product_12;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+11/12/2024;Dec;2024;Supplier_2;Product_12;Machine_E;In-process;Visual;MR;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+10/12/2024;Dec;2024;Supplier_2;Product_12;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;7;Inspector_3;Afternoon_Shift
+11/12/2024;Dec;2024;Supplier_2;Product_6;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+11/12/2024;Dec;2024;Supplier_2;Product_18;Machine_D;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Afternoon_Shift
+11/12/2024;Dec;2024;Supplier_2;Product_18;Machine_D;First ;Visual;PU;Machine;Setup and Adjustment Machine;2;Inspector_3;Afternoon_Shift
+12/12/2024;Dec;2024;Supplier_1;Product_9;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+14/12/2024;Dec;2024;Supplier_1;Product_9;Machine_D;First ;Visual;DT;Mold;Machine_Dirty;4;Inspector_10;Midnight_Shift
+16/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Visual;PU;Machine;Setup and Adjustment Machine;6;Inspector_5;Morning_Shift
+16/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Visual;WV;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+16/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+16/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;4;Inspector_5;Morning_Shift
+16/12/2024;Dec;2024;Supplier_2;Product_21;Machine_A;First ;Visual;DM;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+16/12/2024;Dec;2024;Supplier_2;Product_21;Machine_A;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_10;Morning_Shift
+16/12/2024;Dec;2024;Supplier_2;Product_21;Machine_A;First ;Visual;PU;Machine;Setup and Adjustment Machine;1;Inspector_10;Morning_Shift
+16/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Dimension;DOS;Mold;Mold Failures;4;Inspector_5;Morning_Shift
+16/12/2024;Dec;2024;Supplier_2;Product_12;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+16/12/2024;Dec;2024;Supplier_2;Product_8;Machine_C;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_4;Afternoon_Shift
+16/12/2024;Dec;2024;Supplier_2;Product_8;Machine_C;First ;Visual;WV;Machine;Setup and Adjustment Machine;2;Inspector_4;Afternoon_Shift
+16/12/2024;Dec;2024;Supplier_2;Product_8;Machine_C;In-process;Visual;PU;Machine;Setup and Adjustment Machine;3;Inspector_3;Afternoon_Shift
+17/12/2024;Dec;2024;Supplier_2;Product_21;Machine_A;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+17/12/2024;Dec;2024;Supplier_2;Product_21;Machine_A;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+17/12/2024;Dec;2024;Supplier_2;Product_7;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+17/12/2024;Dec;2024;Supplier_2;Product_23;Machine_C;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_3;Midnight_Shift
+17/12/2024;Dec;2024;Supplier_2;Product_7;Machine_D;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+18/12/2024;Dec;2024;Supplier_2;Product_5;Machine_B;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_3;Midnight_Shift
+19/12/2024;Dec;2024;Supplier_2;Product_21;Machine_A;In-process;Visual;SR;Mold;Dirty Mold;2;Inspector_10;Morning_Shift
+19/12/2024;Dec;2024;Supplier_2;Product_5;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+19/12/2024;Dec;2024;Supplier_2;Product_5;Machine_B;In-process;Visual;PU;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+19/12/2024;Dec;2024;Supplier_2;Product_23;Machine_C;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;4;Inspector_10;Morning_Shift
+19/12/2024;Dec;2024;Supplier_1;Product_9;Machine_E;First ;Visual;WV;Machine;Setup and Adjustment Machine;4;Inspector_4;Afternoon_Shift
+19/12/2024;Dec;2024;Supplier_2;Product_8;Machine_A;First ;Visual;PU;Machine;Setup and Adjustment Machine;14;Inspector_5;Morning_Shift
+19/12/2024;Dec;2024;Supplier_2;Product_8;Machine_A;First ;Visual;DT;Machine;Dirty Mold;8;Inspector_4;Afternoon_Shift
+19/12/2024;Dec;2024;Supplier_1;Product_3;Machine_B;First ;Visual;BR;Mold;Mold Failures;1;Inspector_1;Midnight_Shift
+19/12/2024;Dec;2024;Supplier_1;Product_9;Machine_E;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;6;Inspector_1;Midnight_Shift
+19/12/2024;Dec;2024;Supplier_1;Product_3;Machine_B;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+20/12/2024;Dec;2024;Supplier_1;Product_6;Machine_D;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_3;Midnight_Shift
+20/12/2024;Dec;2024;Supplier_1;Product_3;Machine_B;In-process;Visual;DM;Mold;Mold Failures;5;Inspector_1;Midnight_Shift
+20/12/2024;Dec;2024;Supplier_3;Product_3;Machine_B;First ;Visual;DM;Mold;Mold Failures;3;Inspector_3;Midnight_Shift
+20/12/2024;Dec;2024;Supplier_2;Product_6;Machine_D;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_3;Midnight_Shift
+21/12/2024;Dec;2024;Supplier_1;Product_3;Machine_B;In-process;Visual;DM;Mold;Dirty Mold;3;Inspector_4;Afternoon_Shift
+23/12/2024;Dec;2024;Supplier_2;Product_22;Machine_E;First ;Visual;DM;Mold;Dirty Mold;8;Inspector_3;Afternoon_Shift
+23/12/2024;Dec;2024;Supplier_2;Product_14;Machine_E;First ;Visual;DM;Mold;Dirty Mold;4;Inspector_4;Midnight_Shift
+23/12/2024;Dec;2024;Supplier_2;Product_14;Machine_E;In-process;Visual;DM;Mold;Dirty Mold;3;Inspector_4;Midnight_Shift
+24/12/2024;Dec;2024;Supplier_1;Product_9;Machine_B;First ;Visual;DT;Machine;Machine_Dirty;3;Inspector_10;Morning_Shift
+24/12/2024;Dec;2024;Supplier_1;Product_9;Machine_B;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;2;Inspector_10;Morning_Shift
+24/12/2024;Dec;2024;Supplier_1;Product_23;Machine_C;In-process;Visual;SR;Machine;Machine_Dirty;1;Inspector_10;Morning_Shift
+24/12/2024;Dec;2024;Supplier_1;Product_3;Machine_C;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_10;Morning_Shift
+26/12/2024;Dec;2024;Supplier_2;Product_6;Machine_C;In-process;Visual;DT;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+26/12/2024;Dec;2024;Supplier_3;Product_3;Machine_E;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_3;Midnight_Shift
+26/12/2024;Dec;2024;Supplier_3;Product_3;Machine_E;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;5;Inspector_3;Midnight_Shift
+26/12/2024;Dec;2024;Supplier_2;Product_6;Machine_C;In-process;Visual;SR;Mold;Dirty Mold;7;Inspector_3;Midnight_Shift
+26/12/2024;Dec;2024;Supplier_2;Product_6;Machine_C;First ;Visual;DM;Mold;Dirty Mold;8;Inspector_4;Morning_Shift
+27/12/2024;Dec;2024;Supplier_2;Product_22;Machine_D;In-process;Visual;WV;Machine;Setup and Adjustment Machine;6;Inspector_4;Morning_Shift
+27/12/2024;Jan;2024;Supplier_2;Product_8;Machine_A;In-process;Visual;DT;Mold;Dirty Mold;3;Inspector_4;Morning_Shift
+27/12/2024;Feb;2024;Supplier_3;Product_3;Machine_E;In-process;Visual;DM;Mold;Dirty Mold;9;Inspector_4;Morning_Shift
+28/12/2024;Dec;2024;Supplier_3;Product_3;Machine_E;In-process;Visual;MR;Mold;Dirty Mold;2;Inspector_4;Morning_Shift
+28/12/2024;Dec;2024;Supplier_2;Product_20;Machine_D;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_4;Morning_Shift
+28/12/2024;Dec;2024;Supplier_2;Product_20;Machine_D;In-process;Dimension;FOS;Machine;Setup and Adjustment Machine;2;Inspector_5;Morning_Shift
+28/12/2024;Dec;2024;Supplier_2;Product_20;Machine_D;In-process;Visual;PU;Machine;Setup and Adjustment Machine;2;Inspector_5;Morning_Shift
+28/12/2024;Dec;2024;Supplier_2;Product_1;Machine_B;First ;Visual;PU;Machine;Setup and Adjustment Machine;3;Inspector_3;Midnight_Shift
+28/12/2024;Dec;2024;Supplier_2;Product_18;Machine_B;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;1;Inspector_3;Midnight_Shift
+28/12/2024;Dec;2024;Supplier_2;Product_18;Machine_B;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Midnight_Shift
+03/01/2025;Jan;2025;Supplier_1;Product_9;Machine_C;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;3;Inspector_4;Morning_Shift
+03/01/2025;Jan;2025;Supplier_1;Product_9;Machine_D;First ;Visual;DM;Mold;Dirty Mold;6;Inspector_4;Morning_Shift
+03/01/2025;Jan;2025;Supplier_1;Product_9;Machine_E;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_4;Morning_Shift
+03/01/2025;Jan;2025;Supplier_2;Product_10;Machine_D;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Morning_Shift
+03/01/2025;Jan;2025;Supplier_2;Product_10;Machine_D;First ;Visual;DT;Mold;Dirty Mold;7;Inspector_3;Morning_Shift
+04/01/2025;Jan;2025;Supplier_1;Product_9;Machine_C;First ;Visual;JOS;Machine;Setup and Adjustment Machine;2;Inspector_5;Morning_Shift
+06/01/2025;Jan;2025;Supplier_2;Product_2;Machine_B;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_5;Morning_Shift
+06/01/2025;Jan;2025;Supplier_3;Product_3;Machine_E;In-process;Visual;DI;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+06/01/2025;Jan;2025;Supplier_2;Product_2;Machine_B;First ;Dimension;FOS;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+06/01/2025;Jan;2025;Supplier_2;Product_15;Machine_A;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+07/01/2025;Jan;2025;Supplier_2;Product_7;Machine_A;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_7;Morning_Shift
+07/01/2025;Jan;2025;Supplier_2;Product_7;Machine_A;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_7;Morning_Shift
+06/01/2025;Jan;2025;Supplier_2;Product_1;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_4;Midnight_Shift
+07/01/2025;Jan;2025;Supplier_1;Product_10;Machine_D;In-process;Visual;DT;Mold;Dirty Mold;3;Inspector_4;Midnight_Shift
+07/01/2025;Jan;2025;Supplier_2;Product_1;Machine_E;In-process;Visual;PU;Machine;Setup and Adjustment Machine;7;Inspector_4;Midnight_Shift
+08/01/2025;Jan;2025;Supplier_1;Product_23;Machine_B;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Afternoon_Shift
+08/01/2025;Jan;2025;Supplier_1;Product_3;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_7;Morning_Shift
+08/01/2025;Jan;2025;Supplier_2;Product_6;Machine_E;First ;Visual;DM;Mold;Dirty Mold;7;Inspector_3;Afternoon_Shift
+09/01/2025;Jan;2025;Supplier_2;Product_6;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+09/01/2025;Jan;2025;Supplier_1;Product_23;Machine_B;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;8;Inspector_7;Morning_Shift
+10/01/2025;Jan;2025;Supplier_1;Product_23;Machine_B;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;5;Inspector_5;Morning_Shift
+10/01/2025;Jan;2025;Supplier_1;Product_23;Machine_B;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;5;Inspector_5;Morning_Shift
+10/01/2025;Jan;2025;Supplier_1;Product_23;Machine_B;In-process;Dimension;DOS;Machine;Setup and Adjustment Machine;7;Inspector_5;Morning_Shift
+10/01/2025;Jan;2025;Supplier_2;Product_14;Machine_B;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+10/01/2025;Jan;2025;Supplier_2;Product_1;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+13/01/2025;Jan;2025;Supplier_2;Product_1;Machine_B;In-process;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+13/01/2025;Jan;2025;Supplier_2;Product_20;Machine_A;First ;Visual;DT;Mold;Dirty Mold;4;Inspector_3;Morning_Shift
+13/01/2025;Jan;2025;Supplier_2;Product_1;Machine_B;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+14/01/2025;Jan;2025;Supplier_1;Product_23;Machine_B;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_5;Morning_Shift
+14/01/2025;Jan;2025;Supplier_2;Product_6;Machine_C;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Morning_Shift
+14/01/2025;Jan;2025;Supplier_2;Product_5;Machine_C;In-process;Visual;BR;Mold;Mold Failures;1;Inspector_3;Morning_Shift
+14/01/2025;Jan;2025;Supplier_1;Product_23;Machine_B;In-process;Visual;DM;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+14/01/2025;Jan;2025;Supplier_2;Product_18;Machine_D;First ;Dimension;IOS;Machine;Setup and Adjustment Machine;1;Inspector_1;Midnight_Shift
+14/01/2025;Jan;2025;Supplier_2;Product_18;Machine_D;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;7;Inspector_1;Midnight_Shift
+14/01/2025;Jan;2025;Supplier_2;Product_18;Machine_D;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+15/01/2025;Jan;2025;Supplier_2;Product_18;Machine_B;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_3;Afternoon_Shift
+15/01/2025;Jan;2025;Supplier_2;Product_14;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+15/01/2025;Jan;2025;Supplier_2;Product_18;Machine_D;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;3;Inspector_3;Morning_Shift
+15/01/2025;Jan;2025;Supplier_2;Product_6;Machine_C;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+15/01/2025;Jan;2025;Supplier_1;Product_10;Machine_C;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_4;Afternoon_Shift
+15/01/2025;Jan;2025;Supplier_1;Product_10;Machine_C;First ;Visual;DT;Mold;Dirty Mold;9;Inspector_4;Afternoon_Shift
+15/01/2025;Jan;2025;Supplier_1;Product_3;Machine_C;First ;Visual;DF;Mold;Mold Failures;1;Inspector_4;Afternoon_Shift
+16/01/2025;Jan;2025;Supplier_2;Product_18;Machine_A;First ;Visual;BR;Mold;Mold Failures;1;Inspector_3;Morning_Shift
+16/01/2025;Jan;2025;Supplier_2;Product_14;Machine_D;In-process;Visual;SR;Mold;Dirty Mold;4;Inspector_3;Morning_Shift
+16/01/2025;Jan;2025;Supplier_2;Product_18;Machine_A;First ;Visual;SR;Mold;Dirty Mold;8;Inspector_3;Morning_Shift
+16/01/2025;Jan;2025;Supplier_2;Product_12;Machine_B;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_4;Afternoon_Shift
+16/01/2025;Jan;2025;Supplier_2;Product_12;Machine_B;First ;Visual;DT;Mold;Dirty Mold;7;Inspector_4;Afternoon_Shift
+16/01/2025;Jan;2025;Supplier_2;Product_8;Machine_D;First ;Visual;PU;Machine;Setup and Adjustment Machine;8;Inspector_1;Midnight_Shift
+17/01/2025;Jan;2025;Supplier_2;Product_8;Machine_D;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_3;Morning_Shift
+20/01/2025;Jan;2025;Supplier_2;Product_8;Machine_D;First ;Visual;PU;Machine;Setup and Adjustment Machine;1;Inspector_10;Morning_Shift
+20/01/2025;Jan;2025;Supplier_2;Product_8;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+20/01/2025;Jan;2025;Supplier_2;Product_8;Machine_D;First ;Visual;DT;Mold;Dirty Mold;8;Inspector_10;Morning_Shift
+20/01/2025;Jan;2025;Supplier_1;Product_23;Machine_E;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+20/01/2025;Jan;2025;Supplier_1;Product_23;Machine_E;First ;Visual;DM;Mold;Mold Failures;4;Inspector_10;Morning_Shift
+20/01/2025;Jan;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_10;Morning_Shift
+20/01/2025;Jan;2025;Supplier_1;Product_23;Machine_E;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+20/01/2025;Jan;2025;Supplier_2;Product_21;Machine_D;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+20/01/2025;Jan;2025;Supplier_2;Product_21;Machine_D;First ;Dimension;FOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+20/01/2025;Jan;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;DM;Mold;Mold Failures;1;Inspector_7;Afternoon_Shift
+20/01/2025;Jan;2025;Supplier_2;Product_21;Machine_D;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+20/01/2025;Jan;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;DM;Mold;Mold Failures;1;Inspector_1;Afternoon_Shift
+20/01/2025;Jan;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;DM;Mold;Mold Failures;1;Inspector_4;Midnight_Shift
+21/01/2025;Jan;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;DM;Mold;Mold Failures;3;Inspector_5;Morning_Shift
+21/01/2025;Jan;2025;Supplier_2;Product_8;Machine_C;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_3;Midnight_Shift
+21/01/2025;Jan;2025;Supplier_2;Product_18;Machine_A;In-process;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Midnight_Shift
+22/01/2025;Jan;2025;Supplier_2;Product_8;Machine_C;In-process;Visual;PU;Machine;Setup and Adjustment Machine;2;Inspector_10;Morning_Shift
+22/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_10;Morning_Shift
+22/01/2025;Jan;2025;Supplier_1;Product_9;Machine_E;In-process;Visual;DI;Machine;Machine Failures;7;Inspector_10;Morning_Shift
+22/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_10;Morning_Shift
+22/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;2;Inspector_1;Afternoon_Shift
+22/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;15;Inspector_4;Midnight_Shift
+22/01/2025;Jan;2025;Supplier_3;Product_3;Machine_C;First ;Visual;BR;Mold;Mold Failures;1;Inspector_1;Afternoon_Shift
+22/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;7;Inspector_4;Midnight_Shift
+22/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;2;Inspector_4;Midnight_Shift
+22/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;3;Inspector_4;Midnight_Shift
+23/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;10;Inspector_10;Morning_Shift
+23/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;First ;Visual;SR;Machine;Setup and Adjustment Machine;1;Inspector_1;Afternoon_Shift
+24/01/2025;Jan;2025;Supplier_2;Product_8;Machine_B;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+25/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;First ;Visual;DM;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+25/01/2025;Jan;2025;Supplier_1;Product_23;Machine_D;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_3;Midnight_Shift
+26/01/2025;Jan;2025;Supplier_1;Product_9;Machine_E;First ;Dimension;BOS;Machine;Setup and Adjustment Machine;1;Inspector_7;Midnight_Shift
+26-Jzn-25;Jan;2025;Supplier_1;Product_9;Machine_E;First ;Visual;DI;Machine;Machine Failures;3;Inspector_7;Midnight_Shift
+29-Jzn-25;Jan;2025;Supplier_2;Product_22;Machine_C;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;4;Inspector_4;Morning_Shift
+29-Jzn-25;Jan;2025;Supplier_2;Product_22;Machine_C;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_4;Morning_Shift
+29-Jzn-25;Jan;2025;Supplier_2;Product_22;Machine_C;First ;Visual;DT;Mold;Dirty Mold;5;Inspector_4;Morning_Shift
+29-Jzn-25;Jan;2025;Supplier_2;Product_22;Machine_C;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+29-Jzn-25;Jan;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;1;Inspector_10;Midnight_Shift
+29-Jzn-25;Jan;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;1;Inspector_10;Midnight_Shift
+30-Jzn-25;Jan;2025;Supplier_2;Product_15;Machine_C;First ;Visual;DM;Mold;Dirty Mold;1;Inspector_4;Morning_Shift
+30-Jzn-25;Jan;2025;Supplier_2;Product_18;Machine_A;In-process;Visual;WV;Machine;Setup and Adjustment Machine;2;Inspector_4;Morning_Shift
+30-Jzn-25;Jan;2025;Supplier_2;Product_22;Machine_A;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;1;Inspector_3;Afternoon_Shift
+31/01/2025;Jan;2025;Supplier_3;Product_3;Machine_D;First ;Visual;SR;Material;Material Failures;1;Inspector_4;Morning_Shift
+01/02/2025;Feb;2025;Supplier_1;Product_9;Machine_E;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;2;Inspector_4;Morning_Shift
+01/02/2025;Feb;2025;Supplier_1;Product_9;Machine_E;First ;Visual;DM;Mold;Mold Failures;2;Inspector_4;Morning_Shift
+01/02/2025;Feb;2025;Supplier_1;Product_9;Machine_E;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;3;Inspector_4;Morning_Shift
+01/02/2025;Feb;2025;Supplier_1;Product_9;Machine_E;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;2;Inspector_4;Morning_Shift
+03/02/2025;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Visual;DM;Mold;Dirty Mold;10;Inspector_5;Morning_Shift
+03/02/2025;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Dimension;SR;Mold;Dirty Mold;13;Inspector_5;Morning_Shift
+03/02/2025;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_5;Morning_Shift
+03/02/2025;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;8;Inspector_1;Afternoon_Shift
+03/02/2025;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;8;Inspector_1;Afternoon_Shift
+03/02/2025;Feb;2025;Supplier_2;Product_22;Machine_C;First ;Visual;DT;Mold;Dirty Mold;4;Inspector_1;Afternoon_Shift
+03/02/2025;Feb;2025;Supplier_2;Product_22;Machine_C;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;1;Inspector_1;Afternoon_Shift
+03/02/2025;Feb;2025;Supplier_2;Product_22;Machine_C;First ;Visual;DM;Mold;Dirty Mold;4;Inspector_4;Midnight_Shift
+04/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+04/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Morning_Shift
+04/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;2;Inspector_3;Morning_Shift
+04/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;1;Inspector_3;Morning_Shift
+04/02/2025;Feb;2025;Supplier_2;Product_2;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+04/02/2025;Feb;2025;Supplier_2;Product_2;Machine_E;First ;Dimension;NOS;Mold;Mold Failures;2;Inspector_3;Morning_Shift
+04/02/2025;Feb;2025;Supplier_2;Product_2;Machine_E;First ;Dimension;CP;Mold;Mold Failures;1;Inspector_3;Morning_Shift
+04/02/2025;Feb;2025;Supplier_2;Product_22;Machine_C;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_3;Morning_Shift
+04/02/2025;Feb;2025;Supplier_2;Product_18;Machine_C;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_10;Afternoon_Shift
+04/02/2025;Feb;2025;Supplier_2;Product_18;Machine_D;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_10;Afternoon_Shift
+05/02/2025;Feb;2025;Supplier_1;Product_9;Machine_C;First ;Visual;SR;Machine;Machine_Dirty;1;Inspector_5;Morning_Shift
+05/02/2025;Feb;2025;Supplier_1;Product_9;Machine_C;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_10;Afternoon_Shift
+06/02/2025;Feb;2025;Supplier_2;Product_22;Machine_E;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;2;Inspector_3;Morning_Shift
+06/02/2025;Feb;2025;Supplier_2;Product_22;Machine_E;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_5;Morning_Shift
+06/02/2025;Feb;2025;Supplier_2;Product_22;Machine_E;First ;Visual;DT;Mold;Dirty Mold;7;Inspector_5;Morning_Shift
+06/02/2025;Feb;2025;Supplier_2;Product_22;Machine_E;First ;Visual;CP;Mold;Mold Failures;1;Inspector_3;Morning_Shift
+06/02/2025;Feb;2025;Supplier_2;Product_22;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_10;Afternoon_Shift
+06/02/2025;Feb;2025;Supplier_2;Product_22;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_4;Midnight_Shift
+07/02/2025;Feb;2025;Supplier_1;Product_3;Machine_E;First ;Visual;MR;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+07/02/2025;Feb;2025;Supplier_2;Product_5;Machine_A;First ;Visual;DM;Mold;Mold Failures;5;Inspector_3;Morning_Shift
+07/02/2025;Feb;2025;Supplier_2;Product_5;Machine_A;First ;Visual;DM;Mold;Mold Failures;3;Inspector_3;Morning_Shift
+07/02/2025;Feb;2025;Supplier_1;Product_10;Machine_D;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_1;Afternoon_Shift
+07/02/2025;Feb;2025;Supplier_2;Product_5;Machine_A;First ;Visual;DM;Mold;Mold Failures;2;Inspector_1;Afternoon_Shift
+07/02/2025;Feb;2025;Supplier_1;Product_3;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+07/02/2025;Feb;2025;Supplier_1;Product_3;Machine_E;First ;Visual;DT;Machine;Machine_Dirty;1;Inspector_1;Afternoon_Shift
+07/02/2025;Feb;2025;Supplier_1;Product_10;Machine_D;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+07/02/2025;Feb;2025;Supplier_1;Product_10;Machine_D;First ;Visual;DT;Machine;Machine_Dirty;1;Inspector_10;Afternoon_Shift
+07/02/2025;Feb;2025;Supplier_2;Product_2;Machine_A;First ;Dimension;FOS;Machine;Setup and Adjustment Machine;3;Inspector_1;Afternoon_Shift
+07/02/2025;Feb;2025;Supplier_2;Product_2;Machine_A;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_10;Afternoon_Shift
+07/02/2025;Feb;2025;Supplier_2;Product_2;Machine_A;First ;Visual;DM;Mold;Dirty Mold;1;Inspector_10;Afternoon_Shift
+08/02/2025;Feb;2025;Supplier_1;Product_3;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;3;Inspector_4;Midnight_Shift
+10/02/2025;Feb;2025;Supplier_1;Product_9;Machine_C;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+10/02/2025;Feb;2025;Supplier_2;Product_2;Machine_A;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+10/02/2025;Feb;2025;Supplier_1;Product_9;Machine_C;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+10/02/2025;Feb;2025;Supplier_2;Product_2;Machine_A;In-process;Visual;SR;Machine;Machine_Dirty;1;Inspector_5;Morning_Shift
+10/02/2025;Feb;2025;Supplier_2;Product_22;Machine_D;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;3;Inspector_4;Afternoon_Shift
+10/02/2025;Feb;2025;Supplier_2;Product_8;Machine_D;First ;Dimension;GOS;Machine;Machine Failures;1;Inspector_1;Midnight_Shift
+10/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;4;Inspector_3;Midnight_Shift
+10/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Dimension;GOS;Mold;Setup and Adjustment Machine;4;Inspector_3;Midnight_Shift
+10/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_3;Midnight_Shift
+11/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_5;Morning_Shift
+11/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Dimension;COS;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+11/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;1;Inspector_7;Morning_Shift
+11/02/2025;Feb;2025;Supplier_1;Product_9;Machine_C;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;4;Inspector_5;Morning_Shift
+11/02/2025;Feb;2025;Supplier_2;Product_2;Machine_A;In-process;Visual;SR;Machine;Machine_Dirty;1;Inspector_5;Morning_Shift
+11/02/2025;Feb;2025;Supplier_2;Product_8;Machine_D;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+11/02/2025;Feb;2025;Supplier_1;Product_9;Machine_C;In-process;Visual;SR;Mold;Dirty Mold;4;Inspector_3;Midnight_Shift
+12/02/2025;Feb;2025;Supplier_1;Product_9;Machine_C;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;5;Inspector_4;Afternoon_Shift
+12/02/2025;Feb;2025;Supplier_2;Product_18;Machine_E;First ;Dimension;SR;Mold;Dirty Mold;4;Inspector_4;Afternoon_Shift
+12/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_3;Midnight_Shift
+13/02/2025;Feb;2025;Supplier_1;Product_10;Machine_B;First ;Visual;DT;Machine;Machine_Dirty;3;Inspector_10;Morning_Shift
+13/02/2025;Feb;2025;Supplier_1;Product_3;Machine_B;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+13/02/2025;Feb;2025;Supplier_1;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+13/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;FOS;Machine;Setup and Adjustment Machine;5;Inspector_4;Afternoon_Shift
+13/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;FOS;Machine;Setup and Adjustment Machine;5;Inspector_1;Midnight_Shift
+14/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;In-process;Visual;DM;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+16/02/2025;Feb;2025;Supplier_1;Product_9;Machine_C;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_4;Morning_Shift
+17/02/2025;Feb;2025;Supplier_1;Product_23;Machine_D;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;4;Inspector_5;Morning_Shift
+17/02/2025;Feb;2025;Supplier_2;Product_22;Machine_A;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+17/02/2025;Feb;2025;Supplier_2;Product_22;Machine_A;First ;Dimension;WRP;Machine;Setup and Adjustment Machine;2;Inspector_5;Morning_Shift
+17/02/2025;Feb;2025;Supplier_2;Product_22;Machine_A;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_7;Morning_Shift
+17/02/2025;Feb;2025;Supplier_1;Product_10;Machine_B;First ;Visual;DT;Mold;Dirty Mold;4;Inspector_5;Morning_Shift
+17/02/2025;Feb;2025;Supplier_1;Product_10;Machine_B;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;2;Inspector_7;Morning_Shift
+17/02/2025;Feb;2025;Supplier_2;Product_22;Machine_A;In-process;Dimension;EOS;Machine;Setup and Adjustment Machine;5;Inspector_1;Afternoon_Shift
+17/02/2025;Feb;2025;Supplier_2;Product_5;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Midnight_Shift
+18/02/2025;Feb;2025;Supplier_2;Product_12;Machine_A;First ;Visual;PU;Machine;Setup and Adjustment Machine;6;Inspector_7;Morning_Shift
+18/02/2025;Feb;2025;Supplier_2;Product_7;Machine_D;First ;Visual;PU;Machine;Setup and Adjustment Machine;10;Inspector_5;Morning_Shift
+18/02/2025;Feb;2025;Supplier_2;Product_5;Machine_D;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_3;Afternoon_Shift
+18/02/2025;Feb;2025;Supplier_2;Product_5;Machine_D;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+18/02/2025;Feb;2025;Supplier_2;Product_5;Machine_D;In-process;Visual;PU;Mold;Mold Failures;6;Inspector_4;Midnight_Shift
+19/02/2025;Feb;2025;Supplier_2;Product_22;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_7;Morning_Shift
+19/02/2025;Feb;2025;Supplier_2;Product_8;Machine_E;In-process;Visual;PU;Machine;Setup and Adjustment Machine;6;Inspector_5;Morning_Shift
+19/02/2025;Feb;2025;Supplier_1;Product_9;Machine_C;In-process;Visual;DM;Mold;Dirty Mold;2;Inspector_7;Morning_Shift
+19/02/2025;Feb;2025;Supplier_1;Product_9;Machine_C;In-process;Visual;DT;Mold;Dirty Mold;2;Inspector_10;Midnight_Shift
+20/02/2025;Feb;2025;Supplier_1;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+20/02/2025;Feb;2025;Supplier_1;Product_3;Machine_B;First ;Visual;DM;Mold;Dirty Mold;5;Inspector_1;Afternoon_Shift
+20/02/2026;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;4;Inspector_4;Midnight_Shift
+20/02/2027;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;4;Inspector_4;Midnight_Shift
+20/02/2028;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_10;Midnight_Shift
+20/02/2029;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Visual;DT;Machine;Machine_Dirty;1;Inspector_10;Midnight_Shift
+21/02/2025;Feb;2025;Supplier_2;Product_22;Machine_D;In-process;Dimension;EOS;Machine;Setup and Adjustment Machine;5;Inspector_5;Morning_Shift
+21/02/2025;Feb;2025;Supplier_2;Product_8;Machine_E;In-process;Visual;PU;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+21/02/2025;Feb;2025;Supplier_3;Product_3;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;14;Inspector_5;Morning_Shift
+21/02/2025;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_7;Morning_Shift
+21/02/2025;Feb;2025;Supplier_1;Product_23;Machine_C;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_5;Morning_Shift
+21/02/2025;Feb;2025;Supplier_1;Product_23;Machine_C;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;6;Inspector_7;Morning_Shift
+21/02/2025;Feb;2025;Supplier_2;Product_5;Machine_E;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+21/02/2025;Feb;2025;Supplier_2;Product_5;Machine_E;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_3;Afternoon_Shift
+21/02/2025;Feb;2025;Supplier_2;Product_5;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+21/02/2025;Feb;2025;Supplier_2;Product_5;Machine_E;In-process;Visual;PU;Mold;Mold Failures;5;Inspector_4;Midnight_Shift
+22/02/2025;Feb;2025;Supplier_2;Product_7;Machine_E;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+22/02/2025;Feb;2025;Supplier_2;Product_7;Machine_E;First ;Visual;PU;Machine;Setup and Adjustment Machine;6;Inspector_7;Afternoon_Shift
+22/02/2025;Feb;2025;Supplier_2;Product_7;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_7;Afternoon_Shift
+22/02/2025;Feb;2025;Supplier_1;Product_9;Machine_E;In-process;Visual;DI;Machine;Lain-Lain;8;Inspector_7;Afternoon_Shift
+24/02/2025;Feb;2025;Supplier_2;Product_7;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+24/02/2025;Feb;2025;Supplier_2;Product_7;Machine_E;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+24/02/2025;Feb;2025;Supplier_2;Product_7;Machine_E;In-process;Visual;PU;Machine;Setup and Adjustment Machine;7;Inspector_7;Midnight_Shift
+25/02/2025;Feb;2025;Supplier_2;Product_5;Machine_D;First ;Visual;PU;Machine;Setup and Adjustment Machine;4;Inspector_3;Afternoon_Shift
+25/02/2025;Feb;2025;Supplier_2;Product_5;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+25/02/2025;Feb;2025;Supplier_2;Product_5;Machine_D;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+25/02/2025;Feb;2025;Supplier_2;Product_14;Machine_C;First ;Visual;PU;Machine;Setup and Adjustment Machine;5;Inspector_4;Afternoon_Shift
+25/02/2025;Feb;2025;Supplier_2;Product_5;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_4;Afternoon_Shift
+25/02/2025;Feb;2025;Supplier_2;Product_14;Machine_C;In-process;Visual;DM;Mold;Dirty Mold;5;Inspector_1;Midnight_Shift
+26/02/2025;Feb;2025;Supplier_2;Product_5;Machine_D;In-process;Visual;PU;Machine;Setup and Adjustment Machine;4;Inspector_5;Morning_Shift
+26/02/2025;Feb;2025;Supplier_2;Product_8;Machine_A;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Morning_Shift
+26/02/2025;Feb;2025;Supplier_2;Product_8;Machine_A;In-process;Visual;WV;Machine;Setup and Adjustment Machine;2;Inspector_4;Afternoon_Shift
+26/02/2025;Feb;2025;Supplier_2;Product_14;Machine_B;In-process;Visual;PU;Machine;Setup and Adjustment Machine;2;Inspector_3;Morning_Shift
+26/02/2025;Feb;2025;Supplier_2;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+26/02/2025;Feb;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+26/02/2025;Feb;2025;Supplier_1;Product_23;Machine_E;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+27/02/2025;Feb;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;5;Inspector_3;Morning_Shift
+27/02/2025;Feb;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;5;Inspector_3;Morning_Shift
+27/02/2025;Feb;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;DM;Mold;Dirty Mold;5;Inspector_3;Morning_Shift
+27/02/2025;Feb;2025;Supplier_2;Product_14;Machine_C;In-process;Visual;PU;Machine;Setup and Adjustment Machine;2;Inspector_5;Morning_Shift
+27/02/2025;Feb;2025;Supplier_3;Product_3;Machine_B;In-process;Visual;DT;Machine;Machine_Dirty;5;Inspector_3;Morning_Shift
+27/02/2025;Feb;2025;Supplier_2;Product_7;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+27/02/2025;Feb;2025;Supplier_2;Product_14;Machine_C;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+28/02/2025;Feb;2025;Supplier_2;Product_14;Machine_C;In-process;Visual;SR;Machine;Machine_Dirty;1;Inspector_5;Morning_Shift
+28/02/2025;Feb;2025;Supplier_3;Product_3;Machine_B;In-process;Visual;DT;Machine;Machine_Dirty;7;Inspector_3;Morning_Shift
+28/02/2025;Feb;2025;Supplier_2;Product_7;Machine_E;In-process;Visual;SR;Machine;Machine_Dirty;1;Inspector_5;Morning_Shift
+28/02/2025;Feb;2025;Supplier_2;Product_6;Machine_A;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_4;Afternoon_Shift
+28/02/2025;Feb;2025;Supplier_1;Product_9;Machine_D;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+28/02/2025;Feb;2025;Supplier_1;Product_9;Machine_D;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+01/03/2025;March;2025;Supplier_1;Product_9;Machine_D;First ;Visual;DT;Machine;Machine_Dirty;3;Inspector_1;Midnight_Shift
+01/03/2025;March;2025;Supplier_1;Product_9;Machine_D;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;3;Inspector_1;Midnight_Shift
+03/03/2025;March;2025;Supplier_2;Product_5;Machine_C;First ;Visual;PU;Machine;Setup and Adjustment Machine;2;Inspector_10;Morning_Shift
+03/03/2025;March;2025;Supplier_2;Product_5;Machine_C;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+03/03/2025;March;2025;Supplier_2;Product_5;Machine_C;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;1;Inspector_10;Morning_Shift
+03/03/2025;March;2025;Supplier_2;Product_7;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_4;Midnight_Shift
+04/03/2025;March;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+04/03/2025;March;2025;Supplier_1;Product_10;Machine_B;First ;Visual;DT;Machine;Machine_Dirty;2;Inspector_10;Morning_Shift
+04/03/2025;March;2025;Supplier_2;Product_18;Machine_A;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;2;Inspector_1;Afternoon_Shift
+04/03/2025;March;2025;Supplier_2;Product_18;Machine_A;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+04/03/2025;March;2025;Supplier_2;Product_18;Machine_A;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+05/03/2025;March;2025;Supplier_3;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+05/03/2025;March;2025;Supplier_3;Product_3;Machine_B;First ;Visual;DT;Machine;Machine_Dirty;2;Inspector_10;Morning_Shift
+05/03/2025;March;2025;Supplier_2;Product_2;Machine_C;First ;Visual;DM;Mold;Dirty Mold;4;Inspector_4;Midnight_Shift
+06/03/2025;March;2025;Supplier_1;Product_23;Machine_C;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;5;Inspector_5;Morning_Shift
+06/03/2025;March;2025;Supplier_1;Product_23;Machine_C;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;2;Inspector_5;Morning_Shift
+06/03/2025;March;2025;Supplier_1;Product_23;Machine_C;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+06/03/2025;March;2025;Supplier_1;Product_23;Machine_C;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_10;Morning_Shift
+07/03/2025;March;2025;Supplier_2;Product_18;Machine_A;In-process;Visual;DT;Mold;Dirty Mold;4;Inspector_5;Morning_Shift
+07/03/2025;March;2025;Supplier_2;Product_8;Machine_D;In-process;Visual;SR;Machine;Machine_Dirty;1;Inspector_5;Morning_Shift
+08/03/2025;March;2025;Supplier_1;Product_9;Machine_D;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+08/03/2025;March;2025;Supplier_1;Product_9;Machine_D;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+08/03/2025;March;2025;Supplier_1;Product_9;Machine_D;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_5;Morning_Shift
+08/03/2025;March;2025;Supplier_1;Product_9;Machine_D;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+08/03/2025;March;2025;Supplier_1;Product_23;Machine_C;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;3;Inspector_7;Afternoon_Shift
+08/03/2025;March;2025;Supplier_1;Product_23;Machine_C;In-process;Visual;DM;Mold;Dirty Mold;2;Inspector_4;Midnight_Shift
+10/03/2025;March;2025;Supplier_2;Product_5;Machine_C;First ;Dimension;IOS;Machine;Setup and Adjustment Machine;4;Inspector_7;Morning_Shift
+10/03/2025;March;2025;Supplier_2;Product_5;Machine_C;First ;Visual;DT;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+10/03/2025;March;2025;Supplier_2;Product_5;Machine_C;First ;Visual;PU;Machine;Setup and Adjustment Machine;2;Inspector_5;Morning_Shift
+10/03/2025;March;2025;Supplier_2;Product_8;Machine_C;First ;Dimension;FOS;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+11/03/2025;March;2025;Supplier_2;Product_5;Machine_E;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+11/03/2025;March;2025;Supplier_2;Product_6;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+12/03/2025;March;2025;Supplier_2;Product_6;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;6;Inspector_5;Morning_Shift
+12/03/2025;March;2025;Supplier_2;Product_6;Machine_E;In-process;Visual;SR;Machine;Machine_Dirty;2;Inspector_5;Morning_Shift
+13/03/2025;March;2025;Supplier_2;Product_5;Machine_E;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+13/03/2025;March;2025;Supplier_2;Product_5;Machine_E;First ;Visual;DF;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+13/03/2025;March;2025;Supplier_2;Product_1;Machine_E;First ;Visual;PU;Mold;Mold Failures;1;Inspector_7;Morning_Shift
+13/03/2025;March;2025;Supplier_2;Product_1;Machine_E;First ;Dimension;FOS;Mold;Mold Failures;1;Inspector_7;Morning_Shift
+13/03/2025;March;2025;Supplier_2;Product_8;Machine_C;In-process;Dimension;FOS;Machine;Setup and Adjustment Machine;10;Inspector_7;Morning_Shift
+13/03/2025;March;2025;Supplier_2;Product_1;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+13/03/2026;March;2025;Supplier_2;Product_1;Machine_D;First ;Visual;DM;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+14/03/2025;March;2025;Supplier_2;Product_10;Machine_B;First ;Visual;DM;Mold;Dirty Mold;8;Inspector_4;Afternoon_Shift
+15/03/2025;March;2025;Supplier_2;Product_8;Machine_C;In-process;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Morning_Shift
+17/03/2025;March;2025;Supplier_2;Product_16;Machine_E;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+17/03/2025;March;2025;Supplier_2;Product_16;Machine_E;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_3;Morning_Shift
+17/03/2025;March;2025;Supplier_2;Product_6;Machine_C;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+18/03/2025;March;2025;Supplier_2;Product_5;Machine_D;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;1;Inspector_4;Midnight_Shift
+19/03/2025;March;2025;Supplier_2;Product_12;Machine_A;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Midnight_Shift
+19/03/2025;March;2025;Supplier_2;Product_7;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_7;Midnight_Shift
+19/03/2025;March;2025;Supplier_2;Product_12;Machine_A;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_1;Morning_Shift
+19/03/2025;March;2025;Supplier_2;Product_8;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Morning_Shift
+19/03/2025;March;2025;Supplier_2;Product_5;Machine_D;In-process;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Morning_Shift
+19/03/2025;March;2025;Supplier_1;Product_9;Machine_C;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+21/03/2025;March;2025;Supplier_2;Product_12;Machine_A;In-process;Visual;SR;Human Error;Lain-Lain;15;Inspector_1;Afternoon_Shift
+21/03/2025;March;2025;Supplier_3;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+21/03/2025;March;2025;Supplier_3;Product_3;Machine_B;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;1;Inspector_1;Afternoon_Shift
+21/03/2025;March;2025;Supplier_2;Product_14;Machine_A;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_4;Midnight_Shift
+21/03/2025;March;2025;Supplier_2;Product_14;Machine_A;First ;Visual;DM;Mold;Dirty Mold;7;Inspector_4;Midnight_Shift
+24/03/2025;March;2025;Supplier_3;Product_3;Machine_B;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_10;Morning_Shift
+24/03/2025;March;2025;Supplier_3;Product_3;Machine_B;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;1;Inspector_10;Morning_Shift
+24/03/2025;March;2025;Supplier_2;Product_8;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;2;Inspector_5;Morning_Shift
+24/03/2025;March;2025;Supplier_2;Product_2;Machine_A;In-process;Visual;DT;Mold;Dirty Mold;3;Inspector_4;Afternoon_Shift
+25/03/2025;March;2025;Supplier_3;Product_3;Machine_B;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;2;Inspector_10;Morning_Shift
+25/03/2025;March;2025;Supplier_2;Product_14;Machine_D;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+25/03/2025;March;2025;Supplier_2;Product_14;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Midnight_Shift
+26/03/2025;March;2025;Supplier_2;Product_7;Machine_A;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_5;Morning_Shift
+26/03/2025;March;2025;Supplier_2;Product_7;Machine_A;First ;Visual;SR;Machine;Machine_Dirty;2;Inspector_5;Morning_Shift
+26/03/2025;March;2025;Supplier_1;Product_10;Machine_B;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+27/03/2025;March;2025;Supplier_2;Product_20;Machine_C;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;1;Inspector_4;Afternoon_Shift
+27/03/2025;March;2025;Supplier_2;Product_15;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+27/03/2025;March;2025;Supplier_2;Product_12;Machine_E;First ;Visual;SR;Mold;Dirty Mold;10;Inspector_10;Morning_Shift
+03/04/2025;April;2025;Supplier_2;Product_22;Machine_C;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_7;Morning_Shift
+03/04/2025;April;2025;Supplier_2;Product_5;Machine_D;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_7;Morning_Shift
+04/04/2025;April;2025;Supplier_2;Product_1;Machine_D;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_7;Morning_Shift
+04/04/2025;April;2025;Supplier_3;Product_3;Machine_B;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;5;Inspector_4;Midnight_Shift
+05/04/2025;April;2025;Supplier_1;Product_9;Machine_C;In-process;Dimension;BOS;Machine;Setup and Adjustment Machine;5;Inspector_7;Morning_Shift
+05/04/2025;April;2025;Supplier_1;Product_9;Machine_C;In-process;Dimension;BOS;Machine;Setup and Adjustment Machine;7;Inspector_7;Morning_Shift
+07/04/2025;April;2025;Supplier_2;Product_18;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+08/04/2025;April;2025;Supplier_1;Product_9;Machine_D;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_1;Afternoon_Shift
+08/04/2025;April;2025;Supplier_1;Product_23;Machine_C;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_4;Morning_Shift
+08/04/2025;April;2025;Supplier_1;Product_23;Machine_C;First ;Visual;DT;Mold;Dirty Mold;4;Inspector_4;Morning_Shift
+08/04/2025;April;2025;Supplier_1;Product_23;Machine_C;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;9;Inspector_4;Morning_Shift
+08/04/2025;April;2025;Supplier_1;Product_23;Machine_C;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;9;Inspector_4;Morning_Shift
+08/04/2025;April;2025;Supplier_1;Product_23;Machine_C;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;8;Inspector_4;Morning_Shift
+10/04/2025;April;2025;Supplier_1;Product_23;Machine_C;In-process;Dimension;JOS;Machine;Setup and Adjustment Machine;2;Inspector_4;Afternoon_Shift
+10/04/2025;April;2025;Supplier_1;Product_9;Machine_D;First ;Visual;BR;Mold;Mold Failures;1;Inspector_1;Midnight_Shift
+10/04/2025;April;2025;Supplier_1;Product_9;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+14/04/2025;April;2025;Supplier_3;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+14/04/2025;April;2025;Supplier_3;Product_3;Machine_B;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+15/04/2025;April;2025;Supplier_2;Product_20;Machine_A;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+14/04/2025;April;2025;Supplier_2;Product_2;Machine_A;In-process;Visual;PU;Machine;Setup and Adjustment Machine;4;Inspector_4;Midnight_Shift
+16/04/2025;April;2025;Supplier_2;Product_1;Machine_D;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_1;Morning_Shift
+17/04/2025;April;2025;Supplier_1;Product_9;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Morning_Shift
+17/04/2025;April;2025;Supplier_3;Product_3;Machine_B;In-process;Visual;DT;Machine;Material Failures;3;Inspector_1;Morning_Shift
+17/04/2025;April;2025;Supplier_2;Product_6;Machine_A;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Morning_Shift
+18/04/2025;April;2025;Supplier_1;Product_9;Machine_D;In-process;Visual;DT;Mold;Mold Failures;5;Inspector_5;Morning_Shift
+18/04/2025;April;2025;Supplier_1;Product_9;Machine_D;In-process;Visual;PU;Machine;Setup and Adjustment Machine;5;Inspector_5;Morning_Shift
+18/04/2025;April;2025;Supplier_1;Product_9;Machine_D;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_5;Morning_Shift
+21/04/2025;April;2025;Supplier_1;Product_9;Machine_D;In-process;Visual;MR;Machine;Machine_Dirty;3;Inspector_5;Morning_Shift
+21/04/2025;April;2025;Supplier_1;Product_9;Machine_D;In-process;Visual;PU;Mold;Mold Failures;3;Inspector_5;Morning_Shift
+21/04/2025;April;2025;Supplier_1;Product_9;Machine_D;In-process;Visual;DT;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+21/04/2025;April;2025;Supplier_2;Product_12;Machine_D;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+21/04/2025;April;2025;Supplier_2;Product_1;Machine_D;First ;Dimension;IOS;Machine;Setup and Adjustment Machine;3;Inspector_3;Afternoon_Shift
+22/04/2025;April;2025;Supplier_1;Product_10;Machine_D;First ;Visual;DT;Mold;Setup and Adjustment Machine;5;Inspector_3;Morning_Shift
+23/04/2025;April;2025;Supplier_2;Product_8;Machine_C;In-process;Visual;DT;Mold;Lain-Lain;7;Inspector_4;Afternoon_Shift
+23/04/2025;April;2025;Supplier_2;Product_22;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_4;Afternoon_Shift
+23/04/2025;April;2025;Supplier_2;Product_22;Machine_E;In-process;Visual;DM;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+23/04/2025;April;2025;Supplier_2;Product_22;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+24/04/2025;April;2025;Supplier_2;Product_12;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_4;Afternoon_Shift
+24/04/2025;April;2025;Supplier_2;Product_12;Machine_E;First ;Visual;DM;Mold;Dirty Mold;6;Inspector_4;Afternoon_Shift
+24/04/2025;April;2025;Supplier_3;Product_3;Machine_B;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;3;Inspector_4;Afternoon_Shift
+24/04/2025;April;2025;Supplier_3;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_4;Afternoon_Shift
+24/04/2025;April;2025;Supplier_2;Product_22;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;2;Inspector_4;Afternoon_Shift
+24/04/2025;April;2025;Supplier_2;Product_12;Machine_A;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+24/04/2025;April;2025;Supplier_2;Product_22;Machine_E;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+24/04/2025;April;2025;Supplier_2;Product_22;Machine_E;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+24/04/2025;April;2025;Supplier_2;Product_22;Machine_E;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+25/04/2025;April;2025;Supplier_1;Product_3;Machine_B;In-process;Visual;DM;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+25/04/2025;April;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;JOS;Machine;Setup and Adjustment Machine;3;Inspector_1;Midnight_Shift
+26/04/2025;April;2025;Supplier_1;Product_9;Machine_D;In-process;Visual;DM;Mold;Dirty Mold;5;Inspector_7;Midnight_Shift
+26/04/2025;April;2025;Supplier_1;Product_9;Machine_D;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;8;Inspector_7;Midnight_Shift
+28/04/2025;April;2025;Supplier_1;Product_9;Machine_D;In-process;Visual;DT;Mold;Dirty Mold;5;Inspector_5;Morning_Shift
+28/04/2025;April;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;DT;Machine;Machine_Dirty;7;Inspector_3;Midnight_Shift
+29/04/2025;April;2025;Supplier_2;Product_16;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+30/04/2025;April;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_5;Morning_Shift
+30/04/2025;April;2025;Supplier_1;Product_10;Machine_B;First ;Visual;DM;Mold;Dirty Mold;10;Inspector_7;Morning_Shift
+01/05/2025;May;2025;Supplier_1;Product_10;Machine_B;In-process;Visual;DT;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+01/05/2025;May;2025;Supplier_1;Product_23;Machine_D;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_7;Afternoon_Shift
+01/05/2025;May;2025;Supplier_1;Product_9;Machine_E;First ;Visual;MR;Mold;Dirty Mold;6;Inspector_1;Afternoon_Shift
+01/05/2025;May;2025;Supplier_1;Product_9;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_1;Afternoon_Shift
+02/05/2025;May;2025;Supplier_2;Product_18;Machine_D;First ;Visual;MR;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+02/05/2025;May;2025;Supplier_1;Product_9;Machine_E;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+02/05/2025;May;2025;Supplier_3;Product_3;Machine_B;First ;Visual;DM;Mold;Dirty Mold;1;Inspector_3;Midnight_Shift
+03/05/2025;May;2025;Supplier_1;Product_9;Machine_E;In-process;Visual;DM;Mold;Dirty Mold;4;Inspector_7;Morning_Shift
+03/05/2025;May;2025;Supplier_1;Product_9;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+05/05/2026;May;2025;Supplier_1;Product_9;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+05/05/2027;May;2025;Supplier_2;Product_21;Machine_A;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_3;Morning_Shift
+05/05/2028;May;2025;Supplier_1;Product_9;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Morning_Shift
+06/05/2029;May;2025;Supplier_2;Product_18;Machine_D;In-process;Visual;DM;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+06/05/2029;May;2025;Supplier_2;Product_6;Machine_C;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+06/05/2029;May;2025;Supplier_1;Product_10;Machine_B;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+06/05/2029;May;2025;Supplier_1;Product_10;Machine_B;In-process;Visual;DT;Machine;Machine_Dirty;5;Inspector_1;Midnight_Shift
+07/05/2029;May;2025;Supplier_2;Product_2;Machine_A;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+08/05/2025;May;2025;Supplier_2;Product_23;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;7;Inspector_4;Afternoon_Shift
+08/05/2025;May;2025;Supplier_1;Product_9;Machine_C;In-process;Visual;DT;Machine;Machine_Dirty;2;Inspector_1;Midnight_Shift
+08/05/2025;May;2025;Supplier_1;Product_9;Machine_C;In-process;Visual;DT;Machine;Machine_Dirty;5;Inspector_1;Midnight_Shift
+08/05/2025;May;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;DT;Machine;Machine_Dirty;3;Inspector_1;Midnight_Shift
+12/05/2025;May;2025;Supplier_1;Product_9;Machine_C;In-process;Visual;DT;Machine;Machine_Dirty;3;Inspector_7;Morning_Shift
+12/05/2025;May;2025;Supplier_1;Product_9;Machine_C;In-process;Visual;DT;Mold;Dirty Mold;10;Inspector_1;Afternoon_Shift
+13/05/2025;May;2025;Supplier_2;Product_8;Machine_C;In-process;Visual;PU;Machine;Setup and Adjustment Machine;10;Inspector_7;Morning_Shift
+13/05/2025;May;2025;Supplier_1;Product_10;Machine_B;In-process;Visual;DT;Machine;Machine_Dirty;1;Inspector_7;Morning_Shift
+13/05/2025;May;2025;Supplier_1;Product_9;Machine_D;First ;Visual;MR;Machine;Machine_Dirty;3;Inspector_1;Afternoon_Shift
+13/05/2025;May;2025;Supplier_1;Product_9;Machine_D;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Midnight_Shift
+14/05/2025;May;2025;Supplier_2;Product_8;Machine_E;First ;Visual;DT;Mold;Dirty Mold;5;Inspector_7;Morning_Shift
+14/05/2025;May;2025;Supplier_3;Product_3;Machine_B;First ;Visual;DM;Mold;Dirty Mold;8;Inspector_1;Afternoon_Shift
+15/05/2025;May;2025;Supplier_3;Product_3;Machine_B;First ;Visual;DM;Mold;Dirty Mold;5;Inspector_5;Morning_Shift
+15/05/2025;May;2025;Supplier_2;Product_6;Machine_A;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+15/05/2025;May;2025;Supplier_2;Product_7;Machine_D;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;4;Inspector_4;Midnight_Shift
+19/05/2025;May;2025;Supplier_2;Product_22;Machine_A;In-process;Visual;MR;Mold;Dirty Mold;5;Inspector_1;Midnight_Shift
+20/05/2025;May;2025;Supplier_1;Product_23;Machine_D;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;2;Inspector_4;Afternoon_Shift
+20/05/2025;May;2025;Supplier_1;Product_23;Machine_D;First ;Visual;DM;Mold;Dirty Mold;5;Inspector_7;Midnight_Shift
+20/05/2025;May;2025;Supplier_3;Product_3;Machine_B;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+20/05/2025;May;2025;Supplier_1;Product_10;Machine_B;First ;Visual;DT;Mold;Dirty Mold;4;Inspector_3;Morning_Shift
+20/05/2025;May;2025;Supplier_2;Product_5;Machine_C;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+21/05/2025;May;2025;Supplier_2;Product_22;Machine_A;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+21/05/2025;May;2025;Supplier_1;Product_9;Machine_C;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;1;Inspector_4;Afternoon_Shift
+21/05/2025;May;2025;Supplier_1;Product_3;Machine_D;In-process;Visual;DM;Mold;Dirty Mold;14;Inspector_4;Afternoon_Shift
+22/05/2025;May;2025;Supplier_1;Product_23;Machine_D;In-process;Visual;DM;Machine;Machine Failures;4;Inspector_3;Morning_Shift
+22/05/2025;May;2025;Supplier_2;Product_6;Machine_A;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+22/05/2025;May;2025;Supplier_2;Product_18;Machine_D;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+22/05/2025;May;2025;Supplier_2;Product_18;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+22/05/2025;May;2025;Supplier_2;Product_18;Machine_D;First ;Visual;DM;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+23/05/2025;May;2025;Supplier_2;Product_12;Machine_E;First ;Visual;SR;Mold;Mold Failures;1;Inspector_1;Afternoon_Shift
+23/05/2025;May;2025;Supplier_2;Product_2;Machine_E;First ;Visual;BR;Mold;Mold Failures;1;Inspector_7;Afternoon_Shift
+23/05/2025;May;2025;Supplier_2;Product_1;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+23/05/2025;May;2025;Supplier_2;Product_1;Machine_E;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+23/05/2025;May;2025;Supplier_2;Product_1;Machine_E;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+23/05/2025;May;2025;Supplier_2;Product_18;Machine_D;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+24/05/2025;May;2025;Supplier_2;Product_12;Machine_A;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Afternoon_Shift
+25/05/2025;May;2025;Supplier_2;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+26/05/2025;May;2025;Supplier_2;Product_5;Machine_C;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_7;Morning_Shift
+27/05/2025;May;2025;Supplier_2;Product_12;Machine_A;In-process;Visual;SR;Machine;Machine_Dirty;1;Inspector_7;Morning_Shift
+27/05/2025;May;2025;Supplier_2;Product_1;Machine_E;First ;Visual;MR;Mold;Dirty Mold;2;Inspector_7;Morning_Shift
+27/05/2025;May;2025;Supplier_1;Product_9;Machine_C;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_1;Afternoon_Shift
+27/05/2025;May;2025;Supplier_1;Product_9;Machine_C;First ;Visual;MR;Mold;Dirty Mold;4;Inspector_1;Afternoon_Shift
+28/05/2025;May;2025;Supplier_1;Product_9;Machine_C;In-process;Visual;MR;Machine;Machine_Dirty;2;Inspector_7;Morning_Shift
+28/05/2025;May;2025;Supplier_1;Product_9;Machine_C;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+29/05/2025;May;2025;Supplier_2;Product_14;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Morning_Shift
+30/05/2025;May;2025;Supplier_2;Product_8;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Morning_Shift
+30/05/2025;May;2025;Supplier_2;Product_8;Machine_D;In-process;Visual;DM;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+30/05/2025;May;2025;Supplier_1;Product_9;Machine_C;In-process;Dimension;JOS;Machine;Setup and Adjustment Machine;3;Inspector_1;Afternoon_Shift
+31/05/2025;May;2025;Supplier_1;Product_23;Machine_E;First ;Dimension;AOS;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+31/05/2025;May;2025;Supplier_1;Product_23;Machine_E;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+31/05/2025;May;2025;Supplier_1;Product_23;Machine_E;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;10;Inspector_5;Morning_Shift
+31/05/2025;May;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_5;Morning_Shift
+31/05/2025;May;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;MR;Mold;Dirty Mold;4;Inspector_1;Afternoon_Shift
+31/05/2025;May;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+02/06/2025;June;2025;Supplier_2;Product_7;Machine_A;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Morning_Shift
+02/06/2025;June;2025;Supplier_2;Product_2;Machine_C;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+02/06/2025;June;2025;Supplier_3;Product_3;Machine_B;First ;Visual;PM;Mold;Mold Failures;1;Inspector_1;Midnight_Shift
+02/06/2025;June;2025;Supplier_3;Product_3;Machine_B;First ;Visual;PM;Mold;Dirty Mold;5;Inspector_1;Midnight_Shift
+03/06/2025;June;2025;Supplier_2;Product_7;Machine_A;In-process;Visual;DT;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+05/06/2025;June;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;MR;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+05/06/2025;June;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;MR;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+05/06/2025;June;2025;Supplier_2;Product_22;Machine_E;First ;Visual;MR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+05/06/2025;June;2025;Supplier_2;Product_22;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+08/06/2025;June;2025;Supplier_2;Product_6;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+08/06/2025;June;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_4;Afternoon_Shift
+11/06/2025;June;2025;Supplier_2;Product_20;Machine_C;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;5;Inspector_5;Morning_Shift
+11/06/2025;June;2025;Supplier_2;Product_20;Machine_C;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_1;Morning_Shift
+11/06/2025;June;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_4;Afternoon_Shift
+12/06/2025;June;2025;Supplier_1;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_7;Morning_Shift
+12/06/2025;June;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_1;Afternoon_Shift
+13/06/2025;June;2025;Supplier_1;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+13/06/2025;June;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;5;Inspector_5;Morning_Shift
+13/06/2025;June;2025;Supplier_2;Product_7;Machine_D;First ;Visual;PU;Machine;Setup and Adjustment Machine;10;Inspector_1;Afternoon_Shift
+16/06/2025;June;2025;Supplier_1;Product_9;Machine_C;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_3;Morning_Shift
+16/06/2025;June;2025;Supplier_1;Product_9;Machine_C;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;1;Inspector_3;Morning_Shift
+17/06/2025;June;2025;Supplier_2;Product_12;Machine_A;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_1;Midnight_Shift
+18/06/2025;June;2025;Supplier_2;Product_6;Machine_E;First ;Visual;DT;Mold;Dirty Mold;5;Inspector_4;Afternoon_Shift
+19/06/2025;June;2025;Supplier_2;Product_16;Machine_C;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_4;Afternoon_Shift
+19/06/2025;June;2025;Supplier_2;Product_16;Machine_C;In-process;Visual;PM;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+19/06/2025;June;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+23/06/2025;June;2025;Supplier_2;Product_6;Machine_D;First ;Visual;DM;Mold;Dirty Mold;7;Inspector_4;Morning_Shift
+23/06/2025;June;2025;Supplier_2;Product_20;Machine_C;First ;Visual;DM;Machine;Machine_Dirty;13;Inspector_4;Morning_Shift
+26/06/2025;June;2025;Supplier_2;Product_3;Machine_B;First ;Visual;PM;Mold;Dirty Mold;3;Inspector_7;Afternoon_Shift
+26/06/2025;June;2025;Supplier_2;Product_8;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Afternoon_Shift
+30/06/2025;June;2025;Supplier_1;Product_9;Machine_C;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+30/06/2025;June;2025;Supplier_1;Product_9;Machine_C;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_1;Afternoon_Shift
+02/07/2025;July;2025;Supplier_2;Product_22;Machine_D;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_1;Afternoon_Shift
+04/07/2025;July;2025;Supplier_2;Product_15;Machine_C;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_1;Afternoon_Shift
+04/07/2025;July;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Morning_Shift
+04/07/2025;July;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_3;Morning_Shift
+04/07/2025;July;2025;Supplier_1;Product_23;Machine_E;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_4;Midnight_Shift
+04/07/2025;July;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_4;Midnight_Shift
+05/07/2025;July;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;PM;Mold;Dirty Mold;2;Inspector_7;Midnight_Shift
+07/07/2025;July;2025;Supplier_2;Product_2;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Midnight_Shift
+08/07/2025;July;2025;Supplier_3;Product_3;Machine_B;First ;Visual;DM;Machine;Setup and Adjustment Machine;7;Inspector_4;Afternoon_Shift
+08/07/2025;July;2025;Supplier_3;Product_3;Machine_B;First ;Visual;PM;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+09/07/2025;July;2025;Supplier_2;Product_2;Machine_C;In-process;Visual;DM;Mold;Dirty Mold;6;Inspector_4;Afternoon_Shift
+09/07/2025;July;2025;Supplier_2;Product_1;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_3;Midnight_Shift
+09/07/2025;July;2025;Supplier_2;Product_1;Machine_E;First ;Visual;PM;Mold;Dirty Mold;1;Inspector_3;Midnight_Shift
+09/07/2025;July;2025;Supplier_2;Product_1;Machine_E;First ;Visual;EOS;Machine;Setup and Adjustment Machine;7;Inspector_1;Midnight_Shift
+09/07/2025;July;2025;Supplier_2;Product_1;Machine_E;First ;Visual;BR;Mold;Mold Failures;1;Inspector_1;Midnight_Shift
+09/07/2025;July;2025;Supplier_2;Product_15;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+09/07/2025;July;2025;Supplier_1;Product_9;Machine_D;In-process;Dimension;AOS;Mold;Mold Failures;1;Inspector_7;Morning_Shift
+09/07/2025;July;2025;Supplier_1;Product_9;Machine_D;First ;Dimension;KOS;Mold;Mold Failures;1;Inspector_7;Morning_Shift
+09/07/2025;July;2025;Supplier_1;Product_9;Machine_D;First ;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+09/07/2025;July;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;DI;Mold;Dirty Mold;2;Inspector_7;Morning_Shift
+09/07/2025;July;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;BR;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+09/07/2025;July;2025;Supplier_2;Product_18;Machine_A;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+09/07/2025;July;2025;Supplier_2;Product_18;Machine_A;In-process;Visual;DI;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+09/07/2025;July;2025;Supplier_2;Product_18;Machine_A;In-process;Visual;DI;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+09/07/2025;July;2025;Supplier_2;Product_18;Machine_A;In-process;Visual;DI;Mold;Dirty Mold;1;Inspector_7;Morning_Shift
+09/07/2025;July;2025;Supplier_2;Product_19;Machine_E;In-process;Visual;DT;Mold;Mold Failures;1;Inspector_4;Afternoon_Shift
+10/07/2025;July;2025;Supplier_2;Product_19;Machine_A;First ;Visual;DT;Machine;Machine_Dirty;6;Inspector_7;Morning_Shift
+10/07/2024;July;2025;Supplier_1;Product_9;Machine_D;In-process;Visual;SR;Material;Material Failures;1;Inspector_7;Morning_Shift
+11/07/2025;July;2025;Supplier_2;Product_19;Machine_A;In-process;Visual;DT;Machine;Machine_Dirty;1;Inspector_7;Morning_Shift
+12/07/2025;July;2025;Supplier_2;Product_13;Machine_E;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;4;Inspector_4;Afternoon_Shift
+14/07/2025;July;2025;Supplier_3;Product_3;Machine_B;In-process;Dimension;WRP;Machine;Setup and Adjustment Machine;1;Inspector_3;Morning_Shift
+14/07/2025;July;2025;Supplier_2;Product_13;Machine_E;First ;Visual;DM;Mold;Mold Failures;3;Inspector_1;Afternoon_Shift
+14/07/2025;July;2025;Supplier_1;Product_10;Machine_B;First ;Visual;WV;Machine;Setup and Adjustment Machine;4;Inspector_4;Afternoon_Shift
+14/07/2025;July;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;9;Inspector_4;Afternoon_Shift
+15/07/2025;July;2025;Supplier_2;Product_13;Machine_E;First ;Visual;BR;Mold;Mold Failures;1;Inspector_1;Afternoon_Shift
+16/07/2025;July;2025;Supplier_2;Product_8;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+16/07/2025;July;2025;Supplier_2;Product_6;Machine_E;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+16/07/2025;July;2025;Supplier_2;Product_6;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_5;Morning_Shift
+16/07/2025;July;2025;Supplier_1;Product_10;Machine_B;In-process;Visual;DT;Machine;Machine_Dirty;2;Inspector_5;Morning_Shift
+16/07/2025;July;2025;Supplier_1;Product_10;Machine_B;In-process;Visual;MR;Mold;Dirty Mold;3;Inspector_5;Morning_Shift
+16/07/2025;July;2025;Supplier_2;Product_13;Machine_A;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;1;Inspector_5;Morning_Shift
+17/07/2025;July;2025;Supplier_1;Product_9;Machine_B;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_4;Midnight_Shift
+17/07/2025;July;2025;Supplier_2;Product_7;Machine_A;First ;Visual;DM;Mold;Dirty Mold;5;Inspector_4;Midnight_Shift
+18/07/2025;July;2025;Supplier_1;Product_23;Machine_E;First ;Visual;PM;Mold;Dirty Mold;5;Inspector_1;Midnight_Shift
+18/07/2025;July;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_1;Midnight_Shift
+18/07/2025;July;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;4;Inspector_4;Midnight_Shift
+18/07/2025;July;2025;Supplier_1;Product_9;Machine_C;First ;Visual;SR;Mold;Dirty Mold;9;Inspector_4;Midnight_Shift
+19/07/2025;July;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;10;Inspector_1;Afternoon_Shift
+19/07/2025;July;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;10;Inspector_1;Afternoon_Shift
+21/07/2025;July;2025;Supplier_1;Product_10;Machine_B;First ;Visual;DT;Machine;Machine_Dirty;1;Inspector_7;Afternoon_Shift
+21/07/2025;July;2025;Supplier_1;Product_23;Machine_E;In-process;Visual;DM;Mold;Dirty Mold;2;Inspector_7;Afternoon_Shift
+21/07/2025;July;2025;Supplier_2;Product_18;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+21/07/2025;July;2025;Supplier_2;Product_18;Machine_E;First ;Visual;MR;Mold;Dirty Mold;4;Inspector_1;Midnight_Shift
+22/07/2025;July;2025;Supplier_2;Product_18;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_4;Morning_Shift
+22/07/2025;July;2025;Supplier_2;Product_20;Machine_C;First ;Visual;DM;Mold;Dirty Mold;5;Inspector_7;Afternoon_Shift
+22/07/2025;July;2025;Supplier_3;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_3;Afternoon_Shift
+23/07/2025;July;2025;Supplier_2;Product_20;Machine_C;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_4;Morning_Shift
+23/07/2025;July;2025;Supplier_2;Product_14;Machine_A;In-process;Visual;PU;Machine;Setup and Adjustment Machine;1;Inspector_4;Morning_Shift
+23/07/2025;July;2025;Supplier_3;Product_3;Machine_B;In-process;Visual;DM;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+23/07/2025;July;2025;Supplier_2;Product_18;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+23/07/2025;July;2025;Supplier_1;Product_23;Machine_C;First ;Visual;DT;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+23/07/2025;July;2025;Supplier_1;Product_23;Machine_C;First ;Visual;MR;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+24/07/2025;July;2025;Supplier_1;Product_23;Machine_C;In-process;Dimension;COS;Machine;Setup and Adjustment Machine;2;Inspector_4;Morning_Shift
+24/07/2025;July;2025;Supplier_1;Product_23;Machine_C;In-process;Dimension;GOS;Machine;Setup and Adjustment Machine;20;Inspector_4;Morning_Shift
+24/07/2025;July;2025;Supplier_1;Product_23;Machine_C;In-process;Visual;MR;Mold;Dirty Mold;3;Inspector_4;Morning_Shift
+24/07/2025;July;2025;Supplier_1;Product_23;Machine_C;In-process;Visual;SR;Mold;Dirty Mold;2;Inspector_4;Morning_Shift
+24/07/2025;July;2025;Supplier_2;Product_17;Machine_A;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_4;Morning_Shift
+28/07/2025;July;2025;Supplier_2;Product_7;Machine_A;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Morning_Shift
+28/07/2025;July;2025;Supplier_2;Product_23;Machine_E;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+29/07/2025;July;2025;Supplier_2;Product_12;Machine_D;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_1;Morning_Shift
+31/07/2025;July;2025;Supplier_2;Product_15;Machine_E;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Morning_Shift
+31/07/2025;July;2025;Supplier_1;Product_10;Machine_B;In-process;Visual;SR;Machine;Machine_Dirty;10;Inspector_4;Afternoon_Shift
+05/08/2025;August;2025;Supplier_2;Product_7;Machine_A;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_4;Morning_Shift
+05/08/2025;August;2025;Supplier_2;Product_5;Machine_C;First ;Visual;SR;Mold;Dirty Mold;13;Inspector_4;Morning_Shift
+05/08/2025;August;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Machine;Machine_Dirty;3;Inspector_4;Morning_Shift
+05/08/2025;August;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_3;Afternoon_Shift
+05/08/2025;August;2025;Supplier_1;Product_23;Machine_E;First ;Visual;MR;Mold;Dirty Mold;5;Inspector_3;Afternoon_Shift
+08/08/2025;August;2025;Supplier_2;Product_22;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_4;Morning_Shift
+08/08/2025;August;2025;Supplier_2;Product_22;Machine_E;First ;Visual;EOS;Machine;Setup and Adjustment Machine;3;Inspector_4;Morning_Shift
+09/08/2025;August;2025;Supplier_1;Product_9;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_4;Morning_Shift
+12/08/2025;August;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_4;Afternoon_Shift
+12/08/2025;August;2025;Supplier_1;Product_23;Machine_E;First ;Visual;DM;Mold;Dirty Mold;4;Inspector_4;Afternoon_Shift
+12/08/2025;August;2025;Supplier_1;Product_23;Machine_E;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;8;Inspector_4;Afternoon_Shift
+13/08/2025;August;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;EOS;Mold;Mold Failures;8;Inspector_5;Morning_Shift
+13/08/2025;August;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;JOS;Machine;Setup and Adjustment Machine;4;Inspector_5;Morning_Shift
+14/08/2025;August;2025;Supplier_1;Product_23;Machine_E;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;5;Inspector_4;Afternoon_Shift
+15/08/2025;August;2025;Supplier_1;Product_9;Machine_C;First ;Dimension;SR;Mold;Setup and Adjustment Machine;4;Inspector_4;Afternoon_Shift
+18/08/2025;August;2025;Supplier_2;Product_8;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_1;Afternoon_Shift
+26/08/2025;August;2025;Supplier_1;Product_3;Machine_B;In-process;Visual;DM;Mold;Dirty Mold;4;Inspector_7;Afternoon_Shift
+26/08/2025;August;2025;Supplier_1;Product_23;Machine_E;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_7;Afternoon_Shift
+28/08/2025;August;2025;Supplier_2;Product_6;Machine_D;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_1;Morning_Shift
+28/08/2025;August;2025;Supplier_2;Product_6;Machine_D;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Morning_Shift
+28/08/2025;August;2025;Supplier_2;Product_19;Machine_E;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;8;Inspector_1;Morning_Shift
+28/08/2025;August;2025;Supplier_2;Product_19;Machine_E;First ;Visual;PM;Mold;Dirty Mold;5;Inspector_1;Morning_Shift
+28/08/2025;August;2025;Supplier_2;Product_5;Machine_A;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;2;Inspector_1;Morning_Shift
+28/08/2025;August;2025;Supplier_2;Product_5;Machine_A;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_3;Afternoon_Shift
+28/08/2025;August;2025;Supplier_2;Product_5;Machine_A;First ;Visual;PM;Mold;Dirty Mold;5;Inspector_3;Afternoon_Shift
+28/08/2025;August;2025;Supplier_1;Product_9;Machine_B;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_3;Afternoon_Shift
+29/08/2025;August;2025;Supplier_1;Product_9;Machine_B;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Morning_Shift
+29/08/2025;August;2025;Supplier_1;Product_9;Machine_B;First ;Visual;MR;Mold;Dirty Mold;2;Inspector_1;Morning_Shift
+02/09/2025;Sept;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+02/09/2025;Sept;2025;Supplier_1;Product_9;Machine_B;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;3;Inspector_1;Midnight_Shift
+02/09/2025;Sept;2025;Supplier_1;Product_9;Machine_B;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_1;Midnight_Shift
+03/09/2025;Sept;2025;Supplier_2;Product_15;Machine_A;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_4;Afternoon_Shift
+03/09/2025;Sept;2025;Supplier_2;Product_7;Machine_E;First ;Visual;DM;Mold;Dirty Mold;1;Inspector_1;Midnight_Shift
+03/09/2025;Sept;2025;Supplier_2;Product_18;Machine_E;First ;Visual;PM;Mold;Dirty Mold;5;Inspector_1;Midnight_Shift
+04/09/2025;Sept;2025;Supplier_2;Product_8;Machine_A;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_7;Midnight_Shift
+10/09/2025;Sept;2025;Supplier_2;Product_5;Machine_C;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Midnight_Shift
+12/09/2025;Sept;2025;Supplier_2;Product_16;Machine_C;First ;Visual;PM;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+12/09/2025;Sept;2025;Supplier_2;Product_1;Machine_C;First ;Visual;PM;Mold;Dirty Mold;2;Inspector_7;Afternoon_Shift
+12/09/2025;Sept;2025;Supplier_2;Product_19;Machine_D;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Midnight_Shift
+12/09/2025;Sept;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Midnight_Shift
+12/09/2025;Sept;2025;Supplier_1;Product_23;Machine_E;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;5;Inspector_3;Midnight_Shift
+15/09/2026;Sept;2025;Supplier_3;Product_3;Machine_B;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;3;Inspector_3;Afternoon_Shift
+15/09/2026;Sept;2025;Supplier_3;Product_3;Machine_B;First ;Dimension;COS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+15/09/2026;Sept;2025;Supplier_3;Product_3;Machine_B;First ;Dimension;DOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+15/09/2025;Sept;2025;Supplier_3;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_5;Morning_Shift
+15/09/2025;Sept;2025;Supplier_2;Product_1;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Midnight_Shift
+22/09/2025;Sept;2025;Supplier_3;Product_3;Machine_B;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+22/09/2025;Sept;2025;Supplier_3;Product_3;Machine_B;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+23/09/2025;Sept;2025;Supplier_2;Product_16;Machine_A;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_7;Afternoon_Shift
+24/09/2025;Sept;2025;Supplier_1;Product_9;Machine_D;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_4;Afternoon_Shift
+24/09/2025;Sept;2025;Supplier_1;Product_9;Machine_D;First ;Visual;WV;Machine;Setup and Adjustment Machine;14;Inspector_4;Afternoon_Shift
+24/09/2025;Sept;2025;Supplier_1;Product_9;Machine_D;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;12;Inspector_4;Afternoon_Shift
+24/09/2025;Sept;2025;Supplier_1;Product_9;Machine_D;First ;Dimension;GOS;Machine;Setup and Adjustment Machine;12;Inspector_4;Afternoon_Shift
+27/09/2025;Sept;2025;Supplier_1;Product_8;Machine_C;First ;Visual;SR;Mold;Machine_Dirty;8;Inspector_4;Afternoon_Shift
+27/09/2025;Sept;2025;Supplier_2;Product_5;Machine_D;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+27/09/2025;Sept;2025;Supplier_2;Product_15;Machine_A;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+29/09/2025;Sept;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_4;Morning_Shift
+30/09/2025;Sept;2025;Supplier_1;Product_9;Machine_B;First ;Visual;SR;Mold;Dirty Mold;10;Inspector_1;Afternoon_Shift
+02/10/2025;Oct;2025;Supplier_2;Product_14;Machine_A;First ;Visual;PM;Mold;Dirty Mold;5;Inspector_1;Afternoon_Shift
+02/10/2025;Oct;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_1;Afternoon_Shift
+03/10/2025;Oct;2025;Supplier_2;Product_6;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_4;Morning_Shift
+03/10/2025;Oct;2025;Supplier_1;Product_9;Machine_B;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+03/10/2025;Oct;2025;Supplier_2;Product_12;Machine_A;First ;Visual;PM;Mold;Dirty Mold;1;Inspector_1;Afternoon_Shift
+06/10/2025;Oct;2025;Supplier_1;Product_10;Machine_B;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Afternoon_Shift
+06/10/2025;Oct;2025;Supplier_2;Product_17;Machine_C;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+07/10/2025;Oct;2025;Supplier_2;Product_5;Machine_A;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+07/10/2025;Oct;2025;Supplier_3;Product_3;Machine_B;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Morning_Shift
+07/10/2025;Oct;2025;Supplier_2;Product_2;Machine_E;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_1;Morning_Shift
+07/10/2025;Oct;2025;Supplier_2;Product_18;Machine_C;First ;Visual;PM;Mold;Dirty Mold;4;Inspector_1;Morning_Shift
+09/10/2025;Oct;2025;Supplier_1;Product_9;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_5;Morning_Shift
+09/10/2025;Oct;2025;Supplier_1;Product_9;Machine_E;First ;Visual;DT;Mold;Dirty Mold;2;Inspector_5;Morning_Shift
+10/10/2025;Oct;2025;Supplier_2;Product_14;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Afternoon_Shift
+10/10/2025;Oct;2025;Supplier_2;Product_16;Machine_A;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_3;Afternoon_Shift
+10/10/2025;Oct;2025;Supplier_2;Product_16;Machine_A;First ;Visual;DM;Mold;Dirty Mold;3;Inspector_3;Afternoon_Shift
+15/10/2025;Oct;2025;Supplier_2;Product_12;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_3;Morning_Shift
+15/10/2025;Oct;2025;Supplier_2;Product_12;Machine_E;First ;Dimension;AOS;Machine;Setup and Adjustment Machine;3;Inspector_3;Morning_Shift
+16/10/2025;Oct;2025;Supplier_1;Product_9;Machine_B;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+16/10/2025;Oct;2025;Supplier_1;Product_9;Machine_B;First ;Visual;MR;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+16/10/2025;Oct;2025;Supplier_2;Product_2;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_4;Midnight_Shift
+17/10/2025;Oct;2025;Supplier_1;Product_9;Machine_B;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_1;Midnight_Shift
+20/10/2025;Oct;2025;Supplier_3;Product_3;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_7;Afternoon_Shift
+20/10/2025;Oct;2025;Supplier_3;Product_3;Machine_D;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;1;Inspector_7;Afternoon_Shift
+20/10/2025;Oct;2025;Supplier_1;Product_11;Machine_E;First ;Visual;SR;Human Error;Dirty Mold;5;Inspector_3;Midnight_Shift
+23/10/2025;Oct;2025;Supplier_1;Product_23;Machine_B;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Midnight_Shift
+24/10/2025;Oct;2025;Supplier_1;Product_9;Machine_B;First ;Visual;SR;Mold;Dirty Mold;7;Inspector_1;Afternoon_Shift
+25/10/2025;Oct;2025;Supplier_1;Product_9;Machine_B;In-process;Visual;PM;Mold;Dirty Mold;3;Inspector_7;Afternoon_Shift
+27/10/2025;Oct;2025;Supplier_2;Product_18;Machine_C;First ;Visual;PM;Mold;Dirty Mold;10;Inspector_1;Morning_Shift
+27/10/2025;Oct;2025;Supplier_3;Product_3;Machine_E;In-process;Visual;PM;Mold;Dirty Mold;2;Inspector_7;Midnight_Shift
+27/10/2025;Oct;2025;Supplier_1;Product_9;Machine_B;In-process;Visual;PM;Mold;Dirty Mold;2;Inspector_7;Midnight_Shift
+27/10/2025;Oct;2025;Supplier_3;Product_3;Machine_E;In-process;Visual;DT;Mold;Dirty Mold;3;Inspector_7;Midnight_Shift
+28/10/2025;Oct;2025;Supplier_1;Product_23;Machine_D;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Morning_Shift
+29/10/2025;Oct;2025;Supplier_2;Product_5;Machine_D;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_1;Morning_Shift
+29/10/2025;Oct;2025;Supplier_2;Product_5;Machine_D;First ;Visual;PM;Mold;Dirty Mold;4;Inspector_1;Morning_Shift
+30/10/2025;Oct;2025;Supplier_2;Product_2;Machine_A;First ;Visual;PM;Mold;Dirty Mold;1;Inspector_1;Morning_Shift
+30/10/2025;Oct;2025;Supplier_2;Product_2;Machine_A;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Morning_Shift
+30/10/2025;Oct;2025;Supplier_2;Product_19;Machine_A;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_4;Midnight_Shift
+30/10/2025;Oct;2025;Supplier_2;Product_19;Machine_A;First ;Visual;IOS;Machine;Setup and Adjustment Machine;4;Inspector_4;Midnight_Shift
+02/11/2025;Nov;2025;Supplier_2;Product_18;Machine_C;In-process;Visual;PM;Mold;Dirty Mold;4;Inspector_7;Afternoon_Shift
+02/11/2025;Nov;2025;Supplier_2;Product_8;Machine_E;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_7;Afternoon_Shift
+03/11/2025;Nov;2025;Supplier_2;Product_22;Machine_C;In-process;Visual;PM;Mold;Dirty Mold;3;Inspector_7;Afternoon_Shift
+03/11/2025;Nov;2025;Supplier_2;Product_2;Machine_A;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+03/11/2025;Nov;2025;Supplier_2;Product_2;Machine_A;First ;Visual;PM;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+04/11/2025;Nov;2025;Supplier_2;Product_2;Machine_A;In-process;Visual;PU;Machine;Setup and Adjustment Machine;1;Inspector_7;Afternoon_Shift
+04/11/2025;Nov;2025;Supplier_2;Product_6;Machine_D;In-process;Visual;PM;Mold;Dirty Mold;1;Inspector_7;Afternoon_Shift
+04/11/2025;Nov;2025;Supplier_2;Product_22;Machine_C;In-process;Visual;DT;Mold;Dirty Mold;1;Inspector_7;Afternoon_Shift
+04/11/2025;Nov;2025;Supplier_2;Product_8;Machine_E;First ;Visual;DT;Mold;Dirty Mold;3;Inspector_8;Midnight_Shift
+04/11/2025;Nov;2025;Supplier_2;Product_8;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_8;Midnight_Shift
+04/11/2025;Nov;2025;Supplier_2;Product_8;Machine_E;First ;Visual;PM;Mold;Dirty Mold;1;Inspector_8;Midnight_Shift
+05/11/2025;Nov;2025;Supplier_2;Product_18;Machine_C;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_3;Morning_Shift
+05/11/2025;Nov;2025;Supplier_2;Product_18;Machine_C;In-process;Visual;SR;Mold;Dirty Mold;2;Inspector_7;Afternoon_Shift
+05/11/2025;Nov;2025;Supplier_1;Product_9;Machine_B;First ;Visual;PM;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+05/11/2025;Nov;2025;Supplier_1;Product_9;Machine_B;First ;Visual;SR;Mold;Dirty Mold;5;Inspector_1;Midnight_Shift
+07/11/2025;Nov;2025;Supplier_2;Product_1;Machine_D;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_3;Morning_Shift
+08/11/2025;Nov;2025;Supplier_2;Product_9;Machine_B;In-process;Visual;PM;Mold;Dirty Mold;1;Inspector_7;Afternoon_Shift
+08/11/2025;Nov;2025;Supplier_3;Product_9;Machine_C;First ;Visual;PM;Mold;Dirty Mold;7;Inspector_1;Midnight_Shift
+11/11/2025;Nov;2025;Supplier_2;Product_8;Machine_D;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_1;Afternoon_Shift
+12/11/2025;Nov;2025;Supplier_2;Product_1;Machine_A;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+12/11/2025;Nov;2025;Supplier_2;Product_1;Machine_A;First ;Visual;PM;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+12/11/2025;Nov;2025;Supplier_2;Product_17;Machine_C;First ;Dimension;EOS;Machine;Setup and Adjustment Machine;10;Inspector_1;Afternoon_Shift
+14/11/2025;Nov;2025;Supplier_2;Product_7;Machine_A;First ;Visual;SR;Machine;Machine_Dirty;12;Inspector_1;Afternoon_Shift
+14/11/2025;Nov;2025;Supplier_2;Product_12;Machine_D;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Afternoon_Shift
+24/11/2025;Nov;2025;Supplier_2;Product_21;Machine_C;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_4;Afternoon_Shift
+24/11/2025;Nov;2025;Supplier_2;Product_5;Machine_E;In-process;Visual;SR;Machine;Machine_Dirty;2;Inspector_7;Midnight_Shift
+24/11/2025;Nov;2025;Supplier_2;Product_21;Machine_C;In-process;Visual;SR;Mold;Dirty Mold;4;Inspector_7;Midnight_Shift
+24/11/2025;Nov;2025;Supplier_2;Product_21;Machine_C;First ;Visual;DT;Mold;Dirty Mold;5;Inspector_7;Midnight_Shift
+25/11/2025;Nov;2025;Supplier_2;Product_22;Machine_C;In-process;Visual;PM;Mold;Dirty Mold;5;Inspector_7;Midnight_Shift
+25/11/2025;Nov;2025;Supplier_2;Product_22;Machine_C;In-process;Visual;SR;Mold;Dirty Mold;3;Inspector_7;Midnight_Shift
+25/11/2025;Nov;2025;Supplier_2;Product_8;Machine_E;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_8;Afternoon_Shift
+02/12/2025;Dec;2025;Supplier_2;Product_2;Machine_D;First ;Visual;PM;Mold;Dirty Mold;3;Inspector_7;Morning_Shift
+06/12/2025;Dec;2025;Supplier_1;Product_23;Machine_C;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;5;Inspector_7;Morning_Shift
+06/12/2025;Dec;2025;Supplier_3;Product_3;Machine_B;First ;Visual;DT;Machine;Machine Failures;4;Inspector_7;Morning_Shift
+08/12/2025;Dec;2025;Supplier_2;Product_5;Machine_C;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_8;Afternoon_Shift
+08/12/2025;Dec;2025;Supplier_2;Product_17;Machine_E;First ;Visual;SR;Mold;Dirty Mold;3;Inspector_1;Midnight_Shift
+09/12/2025;Dec;2025;Supplier_1;Product_23;Machine_C;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+12/12/2025;Dec;2025;Supplier_3;Product_4;Machine_B;First ;Visual;MR;Mold;Mold Failures;5;Inspector_3;Morning_Shift
+15/12/2025;Dec;2025;Supplier_1;Product_23;Machine_E;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+15/12/2025;Dec;2025;Supplier_1;Product_23;Machine_E;First ;Visual;PM;Mold;Dirty Mold;2;Inspector_1;Midnight_Shift
+16/12/2025;Dec;2025;Supplier_2;Product_12;Machine_A;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;6;Inspector_7;Morning_Shift
+16/12/2025;Dec;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;COS;Machine;Setup and Adjustment Machine;4;Inspector_7;Morning_Shift
+16/12/2025;Dec;2025;Supplier_1;Product_23;Machine_E;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;6;Inspector_7;Morning_Shift
+17/12/2025;Dec;2025;Supplier_3;Product_4;Machine_B;First ;Visual;PU;Mold;Mold Failures;10;Inspector_5;Morning_Shift
+18/12/2025;Dec;2025;Supplier_2;Product_8;Machine_A;First ;Visual;SR;Mold;Dirty Mold;2;Inspector_7;Morning_Shift
+05/01/2026;Jan;2026;Supplier_1;Product_23;Machine_C;First ;Visual;DT;Mold;Mold Failures;10;Inspector_1;Morning_Shift
+05/01/2026;Jan;2026;Supplier_1;Product_23;Machine_C;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+05/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;First ;Visual;DT;Mold;Dirty Mold;10;Inspector_5;Morning_Shift
+05/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;First ;Visual;DT;Mold;Dirty Mold;8;Inspector_5;Morning_Shift
+05/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;First ;Visual;DT;Mold;Dirty Mold;7;Inspector_5;Morning_Shift
+05/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;First ;Visual;DT;Mold;Dirty Mold;9;Inspector_5;Morning_Shift
+06/01/2026;Jan;2026;Supplier_1;Product_23;Machine_C;In-process;Visual;PU;Machine;Setup and Adjustment Machine;3;Inspector_1;Morning_Shift
+06/01/2026;Jan;2026;Supplier_1;Product_10;Machine_D;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;4;Inspector_5;Morning_Shift
+06/01/2026;Jan;2026;Supplier_1;Product_10;Machine_D;First ;Dimension;JOS;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+06/01/2026;Jan;2026;Supplier_1;Product_23;Machine_C;First ;Dimension;JOS;Mold;Setup and Adjustment Machine;4;Inspector_8;Afternoon_Shift
+01/06/2026;Jan;2026;Supplier_1;Product_23;Machine_C;First ;Visual;SR;Machine;Dirty Mold;5;Inspector_9;Midnight_Shift
+06/01/2026;Jan;2026;Supplier_1;Product_10;Machine_D;First ;Visual;DM;Mold;Dirty Mold;1;Inspector_3;Midnight_Shift
+07/01/2026;Jan;2026;Supplier_1;Product_10;Machine_D;First ;Dimension;JOS;Machine;Setup and Adjustment Machine;3;Inspector_5;Morning_Shift
+07/01/2026;Jan;2026;Supplier_1;Product_10;Machine_D;First ;Dimension;JOS;Mold;Mold Failures;1;Inspector_5;Morning_Shift
+07/01/2026;Jan;2026;Supplier_1;Product_9;Machine_E;First ;Visual;MR;Mold;Dirty Mold;1;Inspector_5;Morning_Shift
+07/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;In-process;Visual;MR;Machine;Setup and Adjustment Machine;7;Inspector_6;Afternoon_Shift
+07/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;In-process;Visual;MR;Machine;Setup and Adjustment Machine;6;Inspector_3;Midnight_Shift
+08/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;In-process;Visual;MR;Mold;Setup and Adjustment Machine;5;Inspector_7;Midnight_Shift
+08/01/2026;Jan;2026;Supplier_2;Product_20;Machine_C;In-process;Visual;SR;Mold;Dirty Mold;4;Inspector_7;Midnight_Shift
+09/01/2026;Jan;2026;Supplier_2;Product_17;Machine_D;First ;Visual;SR;Mold;Dirty Mold;4;Inspector_2;Afternoon_Shift
+09/01/2026;Jan;2026;Supplier_2;Product_17;Machine_D;First ;Visual;PM;Mold;Dirty Mold;4;Inspector_2;Afternoon_Shift
+09/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;First ;Visual;DM;Mold;Dirty Mold;6;Inspector_3;Midnight_Shift
+09/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Midnight_Shift
+09/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;First ;Visual;MR;Machine;Setup and Adjustment Machine;6;Inspector_3;Midnight_Shift
+09/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;First ;Visual;SR;Mold;Dirty Mold;6;Inspector_3;Midnight_Shift
+10/01/2026;Jan;2026;Supplier_2;Product_15;Machine_C;First ;Visual;SR;Mold;Dirty Mold;1;Inspector_1;Morning_Shift
+10/01/2026;Jan;2026;Supplier_3;Product_4;Machine_B;In-process;Dimension;AOS;Machine;Setup and Adjustment Machine;6;Inspector_5;Morning_Shift
